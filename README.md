@@ -1,2 +1,2 @@
 # WebSite for [Smart YouTube TV project](https://github.com/yuliskov/SmartYouTubeTV)
-## You can find running WebSite at address [http://smartyoutubetv.pp.ua](http://smartyoutubetv.pp.ua)
+## You can find running WebSite at address [https://smartyoutubetv.github.io](https://smartyoutubetv.github.io)

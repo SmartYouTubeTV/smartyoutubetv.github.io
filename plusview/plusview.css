@@ -1,0 +1,39 @@
+.PlusView-largeBg {
+	background: #fafafa;
+	text-align: center;
+	position: relative;
+	padding: 0 50px;
+}
+.PlusView-button {
+	width: 50px;
+	position: absolute;
+	border: 1px solid #f0f0f0;
+	background: #fff;
+}
+.PlusView-button span {
+	background: url('plusview_arrows.png') no-repeat;
+	display: block;
+	width: 50px;
+	height: 50px;
+}
+.PlusView-button:hover {
+	border: 1px solid #d0d0d0;
+}
+.PlusView-leftArrow {
+	left: 0;
+}
+.PlusView-leftArrow span {
+	background-position: -100px 0px;
+}
+.PlusView-leftArrow:hover span {
+	background-position: -150px 0px;
+}
+.PlusView-rightArrow {
+	right: 0;
+}
+.PlusView-rightArrow span {
+	background-position: -50px 0px;
+}
+.PlusView-rightArrow:hover span {
+	background-position: 0 0;
+}

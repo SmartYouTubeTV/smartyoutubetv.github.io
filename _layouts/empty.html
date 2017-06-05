@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>{{ page.title }}</title>
+	<!-- Site theme -->
+	{% assign themebaseurl = site.baseurl | append: '/' | append: site.themename %}
+
+	{% include styles.html %}
+	{% seo %}
+</head>
+<body>
+
+	<div id="layout">
+		<!-- Main content -->
+	    <div class="markdown-body">
+	      <article>
+	        <h1>{{ page.title }}</h1>
+	        {{ content }}
+	      </article>
+	    </div>
+	</div>
+
+	{% include scripts.html %}
+	<!-- Google analytics -->
+	{% include analytics.html %}
+</body>
+</html>

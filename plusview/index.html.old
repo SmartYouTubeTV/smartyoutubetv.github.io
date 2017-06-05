@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>plusview</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<style></style>
+		<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script src="plusview.js"></script>
+		<link href="plusview.css" media="all" rel="stylesheet" type="text/css" />
+		<script>
+			/** populates ".plusview ul" tags with sample data */
+			function initSampleData() {
+				var urlList = [];
+				var parts = "0123456789abcdefghijklmnopqrstuvwxyz";
+				$('.plusview ul').each(function(index, el) {
+					var ul = $(el);
+					for (var i=0; i<parts.length; i++) {
+						var imgUrl = "/bebe_models/x120/" + parts.charAt(i) + ".jpg";
+						var targetUrl = "/bebe_models/x400/" + parts.charAt(i) + ".jpg";
+
+						var li = $('<li></li>').appendTo(ul);
+						var anchor = $('<a></a>').attr('data-type', 'image')
+							.attr('href', targetUrl).appendTo(li);
+						var img = $('<img/>').attr('src', imgUrl).attr('border', 0).appendTo(anchor);
+					}
+				});
+			}
+
+			$(function() {
+				initSampleData();
+
+				$('#plusview1').plusview({
+				});
+				$('#plusview2').plusview({
+					height: 400,
+					hide: "hide",
+					show: "show",
+					scrollIntoView: false
+				});
+				$('#plusview3').plusview({
+					height: 200,
+					showItem: 3,
+					duration: 5000,
+					wrap: true,
+					onChange: function(el) {
+						$('#plusview3_label').text( el.attr('href') );
+					}
+				});
+			});
+		</script>
+		<style>
+			/* these styles are only for demo and not required, see plusview.css for suggested styles */
+			body {
+				padding: 0;
+				margin: 0;
+				background: #666;
+			}
+			pre {
+				background: #e0e0e0;
+				font-size: 10px;
+				padding: 20px;
+				word-wrap: break-word;
+			}
+			.bodyContainer {
+				max-width: 800px;
+				margin: 0 auto;
+				background: #fff;
+				padding: 20px;
+			}
+			#plusview3_label {
+				border: 1px solid #f0f0f0;
+				line-height: 18px;
+				text-align: center;
+				font-size: 11px;
+				margin-top: 4px;
+			}
+
+			.plusview {
+				overflow: hidden;
+				-moz-user-select:'-moz-none';
+				-moz-user-select:none;
+				-o-user-select:none;
+				-khtml-user-select:none;
+				-webkit-user-select:none;
+				-ms-user-select:none;
+				user-select:none;
+			}
+			.plusview ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			.plusview ul li {
+				display: inline;
+			}
+			.plusview ul li img {
+				height: 105px;
+			}
+
+
+
+		</style>
+	</head>
+	<body>
+		<div class="bodyContainer">
+			<h1>plusview</h1>
+			<p>plusview is a jquery plugin that provides a slideshow style effect for list items similar to the google play store screenshots</p>
+
+
+			<h2>markup</h2>
+			<p>first you'll need to get your markup looking like this:</p>
+			<pre>&lt;div class="plusview"&gt;
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;a href="/bebe_models/x400/0.jpg" data-type="image"&gt;
+                &lt;img src="/bebe_models/x400/0.jpg" border="0"/&gt;
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &hellip;
+    &lt;/ul&gt;
+&lt;/div&gt;</pre>
+			<p>... and some css kind of like this:</p>
+			<pre>.plusview {
+	overflow: hidden;
+	-moz-user-select:'-moz-none';
+	-moz-user-select:none;
+	-o-user-select:none;
+	-khtml-user-select:none;
+	-webkit-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+}
+.plusview ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.plusview ul li {
+	display: inline;
+}
+.plusview ul li img {
+	height: 105px;
+}</pre>
+
+			<h2>with plusview</h2>
+			<p>then we apply plusview. the plugin only uses nodes with the data-type attribute set to "image". others may be added later.</p>
+			<pre>$('#plusview1').plusview();</pre>
+			<div id="plusview1" class="plusview">
+				<ul>
+				</ul>
+			</div>
+
+
+			<h2>without animation</h2>
+			<p>this example is for those who hate all animations. we've also set a custom height here as well.</p>
+			<pre>$('#plusview2').plusview({
+    height: 400,
+    hide: "hide",
+    show: "show",
+    scrollIntoView: false
+});</pre>
+			<div id="plusview2" class="plusview">
+				<ul>
+				</ul>
+			</div>
+
+
+			<h2>auto mode</h2>
+			<p>the plugin can also be configured to automatically show an item by index, show it for 5 seconds, wrap around to the first one when going past the last one and calling a function after each change to update a label.</p>
+			<pre>$('#plusview3').plusview({
+    height: 200,
+    showItem: 3,
+    duration: 5000,
+    wrap: true,
+    onChange: function(el) {...}
+});</pre>
+			<div id="plusview3" class="plusview">
+				<ul>
+				</ul>
+			</div>
+			<div id="plusview3_label">
+
+			</div>
+
+
+			<h2>the api</h2>
+			<p>you can pass in an options object to configure your plusview.</p>
+			<ul>
+				<li>height [300] - set the height of the plusview container. it'll use this to help center the left/right icons as well.</li>
+				<li>hide ["slideUp"] - the hide function to use, typically "hide" or "slideUp"</li>
+				<li>show ["slideDown"] - the show function to use, typically "show" or "slideDown"</li>
+				<li>wrap [false] - enable wrapping around when hitting next/prev</li>
+				<li>scrollIntoView [true] - when switching into the large view, position the element at the top of the page</li>
+				<li>showItem [null] - can be set to an index of the item to show automatically</li>
+				<li>duration [0] - when in large view, automatically cycle through the items at the set interval</li>
+				<li>buttonHeight [50] - if changing the next/prev buttons, this height is used to center buttons</li>
+				<li>onChange [null] - a callback function that gets called whenever an item is shown. parameters are:
+					<ul>
+						<li>el - the anchor element used for large view as a jquery object</li>
+					</ul>
+				</li>
+			</ul>
+
+			<h2>source code</h2>
+			<ul>
+				<li>The latest version is always available on <a href="https://github.com/mdeanda/plusview">github</a></li>
+				<li>Also view it on <a href="http://plugins.jquery.com/plusview/">jquery.com</a></li>
+
+				<li><a href="plusview.js">javascript</a></li>
+				<li><a href="plusview.css">css</a></li>
+				<li><a href="plusview_arrows.png">image</a></li>
+			</ul>
+		</div>
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-46647209-1', 'thedeanda.com');
+			ga('send', 'pageview');
+		</script>
+	</body>
+</html>

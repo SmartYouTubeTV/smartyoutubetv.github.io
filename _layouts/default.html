@@ -1,0 +1,94 @@
+<!-- HELP: https://shopify.github.io/liquid/basics/types/ -->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ site.baseTitle }} - {{ page.title }}</title>
+  <!-- Site theme -->
+  {% assign themebaseurl = site.baseurl | append: '/' | append: site.themename %}
+
+  {% include styles.html %}
+  {% seo %}
+</head>
+<body>
+
+<div id="layout">
+
+    <!-- Collapsed menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <span></span>
+    </a>
+
+    <!-- Expanded menu -->
+    <div id="menu">
+        <div class="pure-menu">
+            <!-- first, find current page language -->
+            <!-- NOTE: avoid use lang substrings in names (ex: /uk/en/index.md) -->
+            {% for lang in site.lang %}
+              {% assign lang_dir = '/' | append: lang | append: '/' %}
+              {% if page.url contains lang_dir %}
+                {% assign current_lang = lang %}
+                {% assign current_lang_dir = lang_dir %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            <a class="pure-menu-heading" href="{{ site.baseurl }}{{ lang_dir }}">{{ site.baseTitle }}</a>
+            <ul class="pure-menu-list">
+
+              {% assign pages = site.pages | sort:"weight"  %}
+
+              {% for node in pages %}
+                <!-- second, render only pages with same lang -->
+                {% if node.url contains current_lang_dir %}
+                <!-- hide certain files in menu -->
+                {% unless node.url contains '/old/' %}
+                {% unless node.exclude_from_menu %}
+                  {% if node.url == "/assets/css/style.css" %}
+                    <!-- Do nothing -->
+                  {% elsif page.url == node.url %}
+                    <li class="pure-menu-item pure-menu-selected"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
+                  {% else %}
+                    <li class="pure-menu-item"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
+                  {% endif %}
+                {% endunless %}
+                {% endunless %}
+                {% endif %}
+
+              {% endfor %}
+            </ul>
+            <ul class="pure-menu-list">
+              {% assign pages = site.bottom-links | sort:"weight"  %}
+              {% for node in pages %}
+                {% assign bottom_url_first_char = node.url | slice: 0 %}
+                <!-- detect nested paths vs absolute urls -->
+                {% if bottom_url_first_char == '/' %}
+                  {% assign full_bottom_url = site.baseurl | append: node.url %}
+                {% else %}
+                  {% assign full_bottom_url = node.url %}
+                {% endif %}
+                <li class="pure-menu-item"><a href="{{ full_bottom_url }}" class="pure-menu-link">{{ node.title }}</a></li>
+              {% endfor %}
+<!--               <li class="pure-menu-item"><a href="{{ site.baseurl }}/doc/reference" class="pure-menu-link">Class reference</a></li>
+              <li class="pure-menu-item"><a href="https://medium.com/google-exoplayer" class="pure-menu-link">Developer blog</a></li> -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- Main content -->
+    <div class="markdown-body">
+      <article>
+        <h1>{{ page.title }}</h1>
+        <h2>{{ site.baseTitle }}</h2>
+        {{ content }}
+        {% include disqus.html %}
+      </article>
+    </div>
+
+</div>
+
+{% include scripts.html %}
+<!-- Google analytics -->
+{% include analytics.html %}
+
+</body>
+</html>

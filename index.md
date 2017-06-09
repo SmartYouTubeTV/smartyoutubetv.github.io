@@ -1,7 +1,8 @@
 ---
 layout: empty
-title: Detecting language...
+title: Smart YouTube TV
 ---
+# Detecting language...
 <script type="text/javascript">
 	function getBrowserLanguage() {
 	    var language = navigator.languages && navigator.languages[0] || // Chrome / Firefox

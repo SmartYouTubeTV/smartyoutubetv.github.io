@@ -28,7 +28,7 @@ weight: 1
 [*Специальная сборка для Mystery MTV-4031LTA2*]({{site.binaries.Mystery}})   
 [*Архив версий*](https://github.com/yuliskov/SmartYouTubeTV/releases/)  
 [*Исходный код (пулл реквесты приветствуются)*](https://github.com/yuliskov/SmartYouTubeTV)  
-*Замечания направляйте на [мыло](mailto:firsthash@gmail.com) или [4pda](http://4pda.ru/forum/index.php?act=qms&mid=5386453)*.
+*Замечания направляйте на [мыло](mailto:{{site.email}}) или [4pda](http://4pda.ru/forum/index.php?act=qms&mid=5386453)*.
 
 *Скриншоты*:
 {% include home-screenshots.html %}

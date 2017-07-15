@@ -8,6 +8,7 @@ description: Comfortable YouTube client for Android TV boxes
 url: https://yuliskov.github.io
 author: Yurii Lyskov
 logo: /images/site_logo.png
+email: firsthash@gmail.com
 exclude:
   - old
 lang:

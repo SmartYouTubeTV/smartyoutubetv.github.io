@@ -22,7 +22,7 @@ binaries:
 bottom-links:
   -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/
-    title: Old Releases
+    title: All Releases
   -
     url: https://github.com/yuliskov/SmartYouTubeTV
     title: Source Code

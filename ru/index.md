@@ -17,13 +17,14 @@ weight: 1
 - содержит встроенную мультиязычную клавиатуру
 
 Минусы:
-- 4К видео не поддерживаются
+- 4К видео не поддерживаются (есть специальная версия с 4К)
 
 > Приложение тестировалось на MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3
 
 На выбор две версии. **На Mi TV 3 лучше работает Бета версия**.  
 [*Скачать оригинальную версию*]({{site.binaries.origin}})  
 [*Скачать бета версию*]({{site.binaries.beta}})  
+[*Скачать 4K версию*]({{site.binaries.4K}})  
 [*Специальная сборка для MiTV2-40*]({{site.binaries.MiTV2}})   
 [*Специальная сборка для Mystery MTV-4031LTA2*]({{site.binaries.Mystery}})   
 [*Архив версий*](https://github.com/yuliskov/SmartYouTubeTV/releases/)  

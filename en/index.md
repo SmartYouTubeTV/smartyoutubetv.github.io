@@ -18,7 +18,7 @@ weight: 1
 **Downloads**:
 - [Stable version]({{site.binaries.origin}})  
 - [Beta version]({{site.binaries.beta}})  
-- [4K version]({{site.binaries.4K}})  
+- [4K version]({{site.binaries.4k}})  
 - [Binary archive](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
 

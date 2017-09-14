@@ -24,7 +24,7 @@ weight: 1
 На выбор две версии. **На Mi TV 3 лучше работает Бета версия**.  
 [*Скачать оригинальную версию*]({{site.binaries.origin}})  
 [*Скачать бета версию*]({{site.binaries.beta}})  
-[*Скачать 4K версию*]({{site.binaries.4K}})  
+[*Скачать 4K версию*]({{site.binaries.4k}})  
 [*Специальная сборка для MiTV2-40*]({{site.binaries.MiTV2}})   
 [*Специальная сборка для Mystery MTV-4031LTA2*]({{site.binaries.Mystery}})   
 [*Архив версий*](https://github.com/yuliskov/SmartYouTubeTV/releases/)  

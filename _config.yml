@@ -19,7 +19,7 @@ binaries:
   beta: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.29/SmartYouTubeTV_Xwalk_v6.8.29_r.apk
   MiTV2: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
   Mystery: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
-  4K: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.32/SmartYouTubeTV_Exoplayer_v6.8.32_r.apk
+  4k: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.32/SmartYouTubeTV_Exoplayer_v6.8.32_r.apk
 bottom-links:
   -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/

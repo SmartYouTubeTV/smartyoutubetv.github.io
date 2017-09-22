@@ -23,8 +23,7 @@ weight: 1
 - [4K version]({{site.binaries.4k}})  
 - [Binary archive](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
-
-On **Mi TV 3** beta version works better.  
+ 
 This app may not run properly on some devices. Sorry for that(  
 Tested on MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 

@@ -15,6 +15,8 @@ weight: 1
 - no need Google Services
 - multilingual keyboard
 
+> Note about different versions. You may want to start play with Sriginal version. If you experience playback problems then try Beta one. Finally, 4K version is intended for those whom previous two versions didn't help. Other versions is for specific devices only, but you can try them too.
+
 **Downloads**:
 - [Stable version]({{site.binaries.origin}})  
 - [Beta version]({{site.binaries.beta}})  

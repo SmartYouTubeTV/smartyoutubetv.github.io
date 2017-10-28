@@ -15,6 +15,7 @@ lang:
   - en
   - ru
 binaries:
+  unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.59/SmartYouTubeTV_Orig_v6.8.59_r.apk
   origin: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.37/SmartYouTubeTV_Original_v6.8.37_r.apk
   beta: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.37/SmartYouTubeTV_Xwalk_v6.8.37_r.apk
   4k: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.37/SmartYouTubeTV_Exoplayer_v6.8.37_r.apk

@@ -24,7 +24,7 @@ weight: 1
 - [Стабильная версия]({{site.binaries.unified}})   
 - [MiTV2 версия]({{site.binaries.MiTV2}})   
 - [Mystery версия]({{site.binaries.MiTV2}})   
-- [Бета и остальные релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
+- [Бета и прошлые релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
  
 Это приложение может не работать на некоторых устройствах. Заранее приношу извинения(  

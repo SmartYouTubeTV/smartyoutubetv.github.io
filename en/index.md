@@ -24,7 +24,7 @@ weight: 1
 - [Stable version]({{site.binaries.unified}})   
 - [MiTV2 version]({{site.binaries.MiTV2}})   
 - [Mystery version]({{site.binaries.MiTV2}})   
-- [Beta releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
+- [Beta and old releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
  
 This app may not run properly on some devices. Sorry for that(  

@@ -10,10 +10,10 @@ weight: 1
 > Many devices lack good YouTube client. The intent of this app is to fix this issue.
 
 **Features**:
-- no need Google Services
+- runs without Google Services
 - designed for TV screens
 - stock controller support
-- multilangual search keyboard
+- multilingual search keyboard
 - app fully localized
 
 > **Stable** version contains four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.

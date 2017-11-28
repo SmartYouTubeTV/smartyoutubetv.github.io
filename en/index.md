@@ -9,7 +9,7 @@ weight: 1
 
 > Many devices lack good YouTube client. The intent of this app is to fix this issue.
 
-**Features**:
+**Features**
 - runs without Google Services
 - designed for TV screens
 - stock controller support
@@ -20,15 +20,19 @@ weight: 1
 
 > **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 
-**Downloads**:
+**Downloads**
 - [Stable version]({{site.binaries.unified}})   
 - [MiTV2 version]({{site.binaries.MiTV2}})   
 - [Mystery version]({{site.binaries.MiTV2}})   
 - [Beta and old releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
- 
-This app may not run properly on some devices. Sorry for that(  
-Tested on MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 
-*Screenshots*:
+**Disclaimer**
+> This app may not run properly on some devices. Sorry for that(  
+> Tested on MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
+
+**Contacts**
+> first.hash at gmail dot com
+
+**Screenshots**
 {% include home-screenshots.html %}

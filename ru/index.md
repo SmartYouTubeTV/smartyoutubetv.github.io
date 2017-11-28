@@ -9,7 +9,7 @@ weight: 1
 
 > Большинство устройств поставляются без удобного YouTube-клиента. Цель данного приложения - восполнить данный пробел.
 
-**Возможности**:
+**Возможности**
 - нет зависимости от Google-сервисов
 - прекрасно выглядит на экране ТВ
 - поддержка "родного" пульта управления
@@ -20,15 +20,19 @@ weight: 1
 
 > **MiTV2** и **Mystery** версии разработаны специально для одноименных устройств, но вы также можете их попробовать.
 
-**Скачать**:
+**Скачать**
 - [Стабильная версия]({{site.binaries.unified}})   
 - [MiTV2 версия]({{site.binaries.MiTV2}})   
 - [Mystery версия]({{site.binaries.MiTV2}})   
 - [Бета и прошлые релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
- 
-Это приложение может не работать на некоторых устройствах. Заранее приношу извинения(  
-Тестировалось на MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 
-*Скриншоты*:
+**Замечание** 
+> Это приложение может не работать на некоторых устройствах. Заранее приношу извинения(  
+> Тестировалось на MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
+
+**Контакты**
+> first.hash at gmail dot com
+
+**Скриншоты**
 {% include home-screenshots.html %}

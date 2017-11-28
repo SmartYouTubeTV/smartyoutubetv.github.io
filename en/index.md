@@ -10,6 +10,7 @@ weight: 1
 > Many devices lack good YouTube client. The intent of this app is to fix this issue.
 
 **Features**
+- **4K support**
 - runs without Google Services
 - designed for TV screens
 - stock controller support

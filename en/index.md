@@ -15,7 +15,7 @@ weight: 1
 - designed for TV screens
 - stock controller support
 - multilingual search keyboard
-- app fully localized
+- fully localized
 
 > **Stable** version contains four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 

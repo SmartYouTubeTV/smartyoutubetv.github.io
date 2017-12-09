@@ -23,6 +23,9 @@ weight: 1
 
 **Скачать**
 - [Стабильная версия]({{site.binaries.unified}})   
+- [Детская версия]({{site.binaries.kids}})   
+
+**Другое**
 - [MiTV2 версия]({{site.binaries.MiTV2}})   
 - [Mystery версия]({{site.binaries.MiTV2}})   
 - [Бета и прошлые релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  

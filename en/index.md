@@ -21,7 +21,7 @@ weight: 1
 
 > **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 
-> **Kids** version is the launched resently service for early childhood education.
+> **Kids** version is the service for early childhood education.
 
 **Downloads**
 - [Stable version]({{site.binaries.unified}})   

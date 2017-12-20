@@ -7,7 +7,7 @@ weight: 1
 
 #### YouTube client for Android media boxes and TV (phones or tablets not supported)
 
-> Many devices lack good YouTube client. The intent of this app is to fix this issue.
+> **Many devices lack the good YouTube client. The intent of this app is to fix such issue**
 
 **Features**
 - **4K support**
@@ -17,21 +17,24 @@ weight: 1
 - multilingual search keyboard
 - fully localized
 
-**Downloads** *(see description below)*
+**Downloads**
 - [Stable version]({{site.binaries.unified}})   
 - [Kids version]({{site.binaries.kids}})   
 
-**Others** *(see description below)*
+**Others**
 - [MiTV2 version]({{site.binaries.MiTV2}})   
 - [Mystery version]({{site.binaries.MiTV2}})   
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
 
+**What to Choose?**
+> The **Stable** version is intended for the general users. Please, try it in the first place. 
+
 > **Stable** version contains four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
-> **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
-
 > **Kids** version is the service for early childhood education.
+
+> **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 
 **Disclaimer**
 > This app may not run properly on some devices. Sorry for that(  

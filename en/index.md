@@ -17,21 +17,21 @@ weight: 1
 - multilingual search keyboard
 - fully localized
 
+**Downloads** *(see description below)*
+- [Stable version]({{site.binaries.unified}})   
+- [Kids version]({{site.binaries.kids}})   
+
+**Others** *(see description below)*
+- [MiTV2 version]({{site.binaries.MiTV2}})   
+- [Mystery version]({{site.binaries.MiTV2}})   
+- [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
+- [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
+
 > **Stable** version contains four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
 > **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 
 > **Kids** version is the service for early childhood education.
-
-**Downloads**
-- [Stable version]({{site.binaries.unified}})   
-- [Kids version]({{site.binaries.kids}})   
-
-**Others**
-- [MiTV2 version]({{site.binaries.MiTV2}})   
-- [Mystery version]({{site.binaries.MiTV2}})   
-- [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
-- [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
 
 **Disclaimer**
 > This app may not run properly on some devices. Sorry for that(  

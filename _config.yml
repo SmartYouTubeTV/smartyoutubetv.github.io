@@ -15,8 +15,8 @@ lang:
   - en
   - ru
 binaries:
-  kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.12.17/SmartYouTubeTV_Vkids_v6.12.17_r.apk
-  unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.12.17/SmartYouTubeTV_Orig_v6.12.17_r.apk
+  kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.12.18/SmartYouTubeTV_Vkids_v6.12.18_r.apk
+  unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.12.18/SmartYouTubeTV_Orig_v6.12.18_r.apk
   MiTV2: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
   Mystery: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
 bottom-links:

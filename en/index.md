@@ -30,7 +30,7 @@ weight: 1
 **What to Choose?**
 > The **Stable** version is intended for the general users. Please, try it in the first place. 
 
-> **Stable** version contains four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
+> Immediately after start of the **Stable** version you will see four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
 > **Kids** version is the service for early childhood education.
 

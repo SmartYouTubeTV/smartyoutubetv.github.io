@@ -19,6 +19,13 @@ title: Smart YouTube TV
 
 	var userLang = detectLanguage();
 
+	switch (userLang) {
+		case 'uk':
+		case 'be':
+			userLang = 'ru';
+			break;
+	}
+
 	var langArr = [];
     {% for lang in site.lang %}
       	langArr.push('{{ lang }}');

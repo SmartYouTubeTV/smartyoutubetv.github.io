@@ -22,10 +22,10 @@ weight: 1
 - [Детская версия]({{site.binaries.kids}})   
 
 **Другое**
-- [MiTV2 версия]({{site.binaries.MiTV2}})   
-- [Mystery версия]({{site.binaries.MiTV2}})   
 - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
+- [MiTV2 версия]({{site.binaries.MiTV2}})   
+- [Mystery версия]({{site.binaries.MiTV2}})   
 
 **Что выбрать?**
 

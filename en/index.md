@@ -7,7 +7,7 @@ weight: 1
 
 #### YouTube client for Android set-top boxes and TV (phones or tablets not supported)
 
-**Devices without touch interface usually lack off the good YouTube client. The intent of this app is to fix such issue.**
+**Devices without touch interface usually lack off the good YouTube client. The intent of this app is to fix such issue.**  
 
 **Features**
 - **4K support**
@@ -22,10 +22,10 @@ weight: 1
 - [Kids version]({{site.binaries.kids}})   
 
 **Others**
-- [MiTV2 version]({{site.binaries.MiTV2}})   
-- [Mystery version]({{site.binaries.MiTV2}})   
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
+- [MiTV2 version]({{site.binaries.MiTV2}})   
+- [Mystery version]({{site.binaries.MiTV2}})   
 
 **What to Choose?**
 > The **Stable** version is intended for the general users. Please, try it in the first place. 

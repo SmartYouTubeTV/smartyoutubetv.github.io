@@ -23,7 +23,7 @@ weight: 1
 
 **Others**
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
-- [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
+- **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**  
 - [MiTV2 version]({{site.binaries.MiTV2}})   
 - [Mystery version]({{site.binaries.MiTV2}})   
 

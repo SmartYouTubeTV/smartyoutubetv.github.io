@@ -42,7 +42,7 @@ weight: 1
 > Тестировалось на MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 
 **Контакты**
-> first.hash at gmail dot com
+> yu.liskov at gmail dot com
 
 **Скриншоты**
 {% include home-screenshots.html %}

@@ -7,7 +7,7 @@ weight: 1
 
 #### YouTube client for Android media boxes and TV (phones or tablets not supported)
 
-> **Many devices lack the good YouTube client. The intent of this app is to fix such issue**
+**Many devices lack the good YouTube client. The intent of this app is to fix such issue**
 
 **Features**
 - **4K support**

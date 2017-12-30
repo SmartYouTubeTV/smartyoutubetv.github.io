@@ -40,6 +40,11 @@ weight: 1
 > This app may not run properly on some devices. Sorry for that(  
 > Tested on MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 
+**Contributors**
+- **[javierpz](https://github.com/javierpz)**
+- **[TheRMaverick](https://github.com/TheRMaverick)**
+- **[Maikell84](https://github.com/Maikell84)**
+
 **Contacts**
 > yu.liskov at gmail dot com
 

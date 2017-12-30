@@ -41,6 +41,11 @@ weight: 1
 > Это приложение может не работать на некоторых устройствах. Заранее приношу извинения(  
 > Тестировалось на MiBox mini/2S, Amazon Fire TV, Amazon Fire TV Stick, Xiaomi Mi TV 3.
 
+**Спасибо за помощь**
+- **[javierpz](https://github.com/javierpz)**
+- **[TheRMaverick](https://github.com/TheRMaverick)**
+- **[Maikell84](https://github.com/Maikell84)**
+
 **Контакты**
 > yu.liskov at gmail dot com
 

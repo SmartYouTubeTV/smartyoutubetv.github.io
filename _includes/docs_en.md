@@ -1,9 +1,3 @@
----
-layout: default
-title: Документация
-weight: 2
----
-
 Imagine that you have ordinary Chinese android box with simple remote controller.
 What YouTube client you should use? Regular client doesn't understand remote controller.
 Off course you may use official YouTube TV client for Nexus Player. But there is many drawback. 

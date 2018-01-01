@@ -33,7 +33,7 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Known issues
 - **casting**: first played video is not started automatically on 720 version
-- **content**: can't change region beside the default one
+- **language**: can't change region beside the default one
 
 #### Contributors
 - **[javierpz](https://github.com/javierpz)**

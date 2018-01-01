@@ -35,9 +35,9 @@
             <!-- if no lang specified use default one (english) -->
             {% if current_lang %}
             {% else %}
-                {% assign lang_dir = '/en/' %}
-                {% assign current_lang = 'en' %}
-                {% assign current_lang_dir = '/en/' %}
+                {% assign lang_dir = '/' %}
+                {% assign current_lang = '' %}
+                {% assign current_lang_dir = '/' %}
             {% endif %}
             <a class="pure-menu-heading" href="{{ site.baseurl }}{{ lang_dir }}">{{ site.baseTitle }}</a>
             <ul class="pure-menu-list">
@@ -45,20 +45,31 @@
               {% assign pages = site.pages | sort:"weight"  %}
 
               {% for node in pages %}
+                <!-- exclude any lang prefixes -->
+                {% assign exclude_from_menu = false %}
+                {% if lang_dir == '/' %}
+                  {% for lang in site.lang %}
+                    {% assign lang_dir_tmp = '/' | append: lang | append: '/' %}
+                    {% if node.url contains lang_dir_tmp or node.url contains 'download' %}
+                      {% assign exclude_from_menu = true %}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
                 <!-- second, render only pages with same lang -->
-                {% if node.url contains current_lang_dir %}
+                {% if node.url contains current_lang_dir and node.title %}
                 <!-- hide certain files in menu -->
-                {% unless node.url contains '/old/' %}
-                {% unless node.exclude_from_menu %}
-                  {% if node.url == "/assets/css/style.css" %}
-                    <!-- Do nothing -->
-                  {% elsif page.url == node.url %}
-                    <li class="pure-menu-item pure-menu-selected"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
-                  {% else %}
-                    <li class="pure-menu-item"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
-                  {% endif %}
-                {% endunless %}
-                {% endunless %}
+                {% if node.url contains '/old/' or node.exclude_from_menu or exclude_from_menu %}
+                  {% continue %}
+                {% endif %}
+
+                {% if node.url == "/assets/css/style.css" %}
+                  <!-- Do nothing -->
+                {% elsif page.url == node.url %}
+                  <li class="pure-menu-item pure-menu-selected"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
+                {% else %}
+                  <li class="pure-menu-item"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
+                {% endif %}
+                
                 {% endif %}
 
               {% endfor %}

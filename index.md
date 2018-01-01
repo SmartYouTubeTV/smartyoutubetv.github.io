@@ -1,12 +1,14 @@
 ---
-layout: empty
-title: Smart YouTube TV
+layout: default
+title: Home
+comments: true
+weight: 1
 ---
-## Detecting language...
+
 <script type="text/javascript">
 	function getBrowserLanguage() {
-	    var language = navigator.languages && navigator.languages[0] || // Chrome / Firefox
-	               navigator.language ||   // All browsers
+	    var language = navigator.language ||   // All browsers
+	               (navigator.languages && navigator.languages[0]) || // Chrome / Firefox
 	               navigator.userLanguage; // IE <= 10
 
 	    return language;
@@ -20,19 +22,13 @@ title: Smart YouTube TV
 	var userLang = detectLanguage();
 
 	switch (userLang) {
+		case 'ru':
 		case 'uk':
 		case 'be':
 			userLang = 'ru';
+			window.location.href = '{{ site.baseurl }}/' + userLang + '/';
 			break;
 	}
-
-	var langArr = [];
-    {% for lang in site.lang %}
-      	langArr.push('{{ lang }}');
-    {% endfor %}
-
-    if (langArr.indexOf(userLang) == -1)
-    	userLang = 'en';
-
-	window.location.href = '{{ site.baseurl }}/' + userLang + '/';
 </script>
+
+{% include main_en.md %}

@@ -11,6 +11,8 @@ logo: /images/site_logo.png
 email: firsthash@gmail.com
 exclude:
   - old
+  - '*.bak'
+  - '*.new'
 lang:
   - en
   - ru

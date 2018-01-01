@@ -32,6 +32,13 @@
                 {% break %}
               {% endif %}
             {% endfor %}
+            <!-- if no lang specified use default one (english) -->
+            {% if current_lang %}
+            {% else %}
+                {% assign lang_dir = '/en/' %}
+                {% assign current_lang = 'en' %}
+                {% assign current_lang_dir = '/en/' %}
+            {% endif %}
             <a class="pure-menu-heading" href="{{ site.baseurl }}{{ lang_dir }}">{{ site.baseTitle }}</a>
             <ul class="pure-menu-list">
 

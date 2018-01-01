@@ -11,7 +11,7 @@ Devices without touch interface usually lack off the good YouTube client. The in
 - fully localized
 
 #### Downloads
-- [Stable version]({{site.binaries.unified}})   
+- **[Stable version]({{site.binaries.unified}})**   
 - [Kids version]({{site.binaries.kids}})   
 
 #### Others

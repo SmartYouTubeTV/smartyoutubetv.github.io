@@ -63,7 +63,7 @@
                 {% endif %}
 
                 {% if node.url == "/assets/css/style.css" %}
-                  <!-- Do nothing -->
+                <!-- Do nothing -->
                 {% elsif page.url == node.url %}
                   <li class="pure-menu-item pure-menu-selected"><a href="{{ site.baseurl }}{{ node.url }}" class="pure-menu-link">{{ node.title }}</a></li>
                 {% else %}
@@ -84,7 +84,13 @@
                 {% else %}
                   {% assign full_bottom_url = node.url %}
                 {% endif %}
-                <li class="pure-menu-item"><a href="{{ full_bottom_url }}" class="pure-menu-link">{{ node.title }}</a></li>
+                {% if current_lang == '' %}
+                  {% assign title_suffix = '' %}
+                {% else %}
+                  {% assign title_suffix = '_' | append: current_lang %}
+                {% endif %}
+                {% assign localized_title = 'title' | append: title_suffix %}
+                <li class="pure-menu-item"><a href="{{ full_bottom_url }}" class="pure-menu-link">{{ node[localized_title] }}</a></li>
               {% endfor %}
 <!--               <li class="pure-menu-item"><a href="{{ site.baseurl }}/doc/reference" class="pure-menu-link">Class reference</a></li>
               <li class="pure-menu-item"><a href="https://medium.com/google-exoplayer" class="pure-menu-link">Developer blog</a></li> -->

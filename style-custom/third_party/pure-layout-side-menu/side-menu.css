@@ -153,6 +153,7 @@ appears on the left side of the page.
     */
     #menu .pure-menu-heading {
         font-size: 110%;
+        font-weight: 600;
         color: #fff;
         margin: 0;
     }
@@ -226,7 +227,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     #layout {
-        padding-left: 150px; /* left col width "#menu" */
+        /*padding-left: 150px;*/ /* left col width "#menu" */
         left: 0;
     }
     #menu {
@@ -244,7 +245,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 }
 
-@media (max-width: 48em) {
+@media (max-width: 100em) {
     /* Only apply this when the window is small. Otherwise, the following
     case results in extra padding on the left:
         * Make the window small.
@@ -254,6 +255,9 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     #layout.active {
         position: relative;
         left: 150px;
+    }
+    #layout {
+        padding-left: 200px; /* left col width "#menu" */
     }
 }
 

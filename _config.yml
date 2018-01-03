@@ -2,7 +2,7 @@ baseurl:
 baseTitle: Smart YouTube TV
 sdkurl: https://developer.android.com/reference
 excerpt_separator: <!--more-->
-themename: 'theme-my'
+themename: 'style-custom'
 title: Smart YouTube TV
 description: Comfortable YouTube client for Android TV boxes
 url: https://yuliskov.github.io
@@ -25,9 +25,13 @@ bottom-links:
   -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/
     title: All Releases
+    title_en: All Releases
+    title_ru: Все релизы
   -
     url: https://github.com/yuliskov/SmartYouTubeTV
     title: Source Code
+    title_en: Source Code
+    title_ru: Исходный код
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap

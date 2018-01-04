@@ -1,6 +1,6 @@
 #### YouTube client for set-top boxes and Android-based TVs
 
-The intent of this app is to propose the same functionality as the original YouTube TV app. 
+This app proposes the same functionality as the original YouTube TV app but with major changes (see below). 
 
 #### Features
 - **4K support**

@@ -1,6 +1,6 @@
-#### YouTube client for Android set-top boxes and TV (phones or tablets not supported)
+#### YouTube client for set-top boxes and Android-based TVs
 
-Devices without touch interface usually lack off the good YouTube client. The intent of this app is to fix such issue. 
+The intent of this app is to propose the same functionality as the original YouTube TV app. 
 
 #### Features
 - **4K support**

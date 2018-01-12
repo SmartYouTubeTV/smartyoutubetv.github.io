@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+hide_title: true
 comments: true
 weight: 1
 ---

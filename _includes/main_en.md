@@ -1,6 +1,6 @@
 #### YouTube client for set-top boxes and Android-based TVs
 
-Nova-days devices like TVs or STBs have a number of a problems with YouTube. Intend of the app is to fix this problem
+Nova-days devices like TVs usually have a number of problems with YouTube. This app is intended to fix such flaws
 
 <!-- This app remains the [**YouTube for Android TV**](https://play.google.com/store/apps/details?id=com.google.android.youtube.tv) but with a some significant differences  -->
 

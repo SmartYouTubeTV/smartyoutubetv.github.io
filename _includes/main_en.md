@@ -1,6 +1,8 @@
 #### YouTube client for set-top boxes and Android-based TVs
 
-This app remains **YouTube for Android TV** app but with some changes (see below). 
+Nova-days devices like TVs or STBs have a number of a problems with YouTube. Intend of the app is to fix this.
+
+<!-- This app remains the [**YouTube for Android TV**](https://play.google.com/store/apps/details?id=com.google.android.youtube.tv) but with a some significant differences  -->
 
 #### Features
 - **4K support**
@@ -9,6 +11,9 @@ This app remains **YouTube for Android TV** app but with some changes (see below
 - stock controller support
 - multilingual search keyboard
 - fully localized
+
+#### Screenshots
+{% include home-screenshots.html %}
 
 #### Downloads
 - **[Stable version]({{site.binaries.unified}})**   
@@ -42,6 +47,3 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Contacts
 > yu.liskov at gmail dot com
-
-#### Screenshots
-{% include home-screenshots.html %}

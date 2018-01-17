@@ -41,6 +41,9 @@
 - **трансляция экрана**: первое видео ставится на паузу в 720 версии
 - **язык**: нельзя изменить регион, кроме основного
 
+#### Разработчик
+- **[yuliskov](https://github.com/yuliskov)**
+
 #### Спасибо за помощь
 - **[javierpz](https://github.com/javierpz)**
 - **[TheRMaverick](https://github.com/TheRMaverick)**

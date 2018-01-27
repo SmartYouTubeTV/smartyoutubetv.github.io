@@ -2,8 +2,6 @@
 
 Nova-days devices like TVs usually have a number of problems with YouTube. This app is intended to fix such flaws
 
-<!-- This app remains the [**YouTube for Android TV**](https://play.google.com/store/apps/details?id=com.google.android.youtube.tv) but with a some significant differences  -->
-
 #### Features
 - **4K support**
 - runs without Google Services
@@ -18,6 +16,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 #### Downloads
 - **[Stable version]({{site.binaries.unified}})**   
 - [Kids version]({{site.binaries.kids}})   
+- [Add-ons]({{site.xwalk_libs}})
 
 #### Others
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
@@ -32,6 +31,8 @@ Immediately after start of the **Stable** version you will see four different la
 **Kids** version is the service for early childhood education.
 
 **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
+
+**Add-ons** - video output engines. Used in 1080 and 4K alt versions. Download is needed only in case when main app can't do it automatically.
 
 #### Found a bug?
 All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)

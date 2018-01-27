@@ -21,6 +21,8 @@ binaries:
   kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.12.24/SmartYouTubeTV_Vkids_v6.12.24_r.apk
   MiTV2: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
   Mystery: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
+xwalk_libs:
+  https://drive.google.com/open?id=1_HM4DDAbCchAkCcAruWnJ4cGYDfXLEw9
 bottom-links:
   -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/

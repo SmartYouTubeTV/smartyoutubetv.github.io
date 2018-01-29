@@ -28,7 +28,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 The **Stable** version is intended for the general users. Please, try it in the first place. 
 Immediately after start of the **Stable** version you will see four different launchers: 720, 1080, 4K and 4K alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
-**Kids** version is the video service for early childhood education. [**More info**](https://kids.youtube.com)
+**Kids** version is the video service for early childhood education. [*More info*](https://kids.youtube.com)
 
 **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 

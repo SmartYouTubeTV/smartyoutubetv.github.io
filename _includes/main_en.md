@@ -38,8 +38,9 @@ Immediately after start of the **Stable** version you will see four different la
 All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Known issues
-- **casting**: first played video is not started automatically on 720 version
-- **language**: can't change region beside the default one
+- `voice search` not supported
+- when app in `casting state` first played video is paused on `720 version`
+- can't change `user region` beside the default one
 
 #### Contributors
 - **[javierpz](https://github.com/javierpz)**

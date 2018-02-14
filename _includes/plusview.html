@@ -1,6 +1,6 @@
 <!-- http://www.jqueryscript.net/slideshow/Google-Play-Style-Image-Viewer-With-jQuery-plusview.html -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/plusview/plusview.js"></script>
+<script src="{{ site.scripts }}/plusview/plusview.js"></script>
 <!-- <link href="plusview.css" rel="stylesheet" type="text/css" /> -->
 <script>
 function appendCSS(cssFile) {
@@ -8,7 +8,7 @@ function appendCSS(cssFile) {
 	var newStyle = jQuery('<link rel="stylesheet" type="text/css" href="' + cssFile + '">');
 	head.append(newStyle);
 }
-appendCSS("{{ site.baseurl }}/plusview/plusview.css");
+appendCSS("{{ site.scripts }}/plusview/plusview.css");
 </script>
 <script>
 $(function() {

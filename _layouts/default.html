@@ -106,6 +106,7 @@
     <!-- Main content -->
     <div class="markdown-body">
       <article>
+        {% include social-buttons.html %}
         {% if page.hide_title %}
         <h2><span style="color: #c50e0e">{{ site.baseTitle }}</span></h2>
         {% else %}
@@ -119,6 +120,7 @@
 </div>
 
 {% include scripts.html %}
+{% include github-buttons.html %}
 <!-- Google analytics -->
 {% include analytics.html %}
 

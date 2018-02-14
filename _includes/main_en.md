@@ -39,7 +39,6 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Known issues
 - `voice search` not supported
-- when app in `casting state` first played video is paused on `720 version`
 - can't change `user region` beside the default one
 
 #### Contributors

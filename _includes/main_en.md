@@ -51,3 +51,4 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Contacts
 > yu.liskov at gmail dot com
+> telegram group: Smart YouTube

@@ -40,6 +40,12 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 #### Known issues
 - `voice search` not supported
 - can't change `user region` beside the default one
+- autoframerate issues on Zidoo devices
+
+### Donation
+If you want to support my developments you are welcome to buy me a cup of coffee :)
+ * WMZ: Z375157140784
+ * WMU: U449339012933
 
 #### Contributors
 - **[javierpz](https://github.com/javierpz)**

@@ -48,9 +48,10 @@ If you want to support my developments you are welcome to buy me a cup of coffee
  * WMU: U449339012933
 
 #### Contributors
-- **[javierpz](https://github.com/javierpz)**
-- **[TheRMaverick](https://github.com/TheRMaverick)**
-- **[Maikell84](https://github.com/Maikell84)**
+ * __[WolfganP](https://github.com/WolfganP)__ (README)
+ * __[javierpz](https://github.com/javierpz)__ (cast fix)
+ * __[TheRMaverick](https://github.com/TheRMaverick)__ (German language)
+ * __[Maikell84](https://github.com/Maikell84)__ (misc fixes)
 
 #### Developer
 - **[yuliskov](https://github.com/yuliskov)**

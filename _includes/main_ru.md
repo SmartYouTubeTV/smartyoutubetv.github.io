@@ -47,16 +47,16 @@
 - на Zidoo не работает автофреймрейт 
 
 #### Понравился проект?
-Отблагодарить можно следующими способами:
- * BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
- * WMZ: Z375157140784
- * WMU: U449339012933
+Если хотите поддержать разработку, то можете купить мне чашку кофе)
+- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+- **WMZ**: Z375157140784
+- **WMU**: U449339012933
 
 #### Спасибо за помощь
- * __[WolfganP](https://github.com/WolfganP)__ (README)
- * __[javierpz](https://github.com/javierpz)__ (cast fix)
- * __[TheRMaverick](https://github.com/TheRMaverick)__ (German language)
- * __[Maikell84](https://github.com/Maikell84)__ (misc fixes)
+- **[WolfganP](https://github.com/WolfganP)** (README)
+- **[javierpz](https://github.com/javierpz)** (cast fix)
+- **[TheRMaverick](https://github.com/TheRMaverick)** (German language)
+- **[Maikell84](https://github.com/Maikell84)** (misc fixes)
 
 #### Разработчик
 - **[yuliskov](https://github.com/yuliskov)**

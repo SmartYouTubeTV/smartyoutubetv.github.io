@@ -62,5 +62,5 @@
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Контакты
-> yu.liskov at gmail dot com
+> yu.liskov at gmail dot com  
 > группа в telegram: Smart YouTube

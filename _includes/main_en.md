@@ -58,5 +58,5 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Contacts
-> yu.liskov at gmail dot com
+> yu.liskov at gmail dot com  
 > telegram group: Smart YouTube

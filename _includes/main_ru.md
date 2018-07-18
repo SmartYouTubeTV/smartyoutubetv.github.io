@@ -20,11 +20,18 @@
 - [Детская версия]({{site.binaries.kids}})   
 - [Доп. компоненты]({{site.xwalk_libs}})
 
-#### Другое
+#### Дополнительно
 - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)**  
 - [MiTV2 версия]({{site.binaries.MiTV2}})   
 - [Mystery версия]({{site.binaries.MiTV2}})   
+
+#### Понравился проект?
+Если хотите поддержать разработку, то можете купить мне чашку кофе)
+- **Privatbank**: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
+- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+- **WMZ**: Z375157140784
+- **WMU**: U449339012933
 
 #### Что выбрать?
 
@@ -45,12 +52,6 @@
 - в режиме `трансляция экрана` первое видео ставится на паузу в `720 версии`
 - нельзя изменить `регион`, кроме установленного по-умолчанию
 - на Zidoo не работает автофреймрейт 
-
-#### Понравился проект?
-Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
-- **WMZ**: Z375157140784
-- **WMU**: U449339012933
 
 #### Спасибо за помощь
 - **[WolfganP](https://github.com/WolfganP)** (README)

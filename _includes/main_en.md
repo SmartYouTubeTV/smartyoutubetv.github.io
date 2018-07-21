@@ -29,7 +29,6 @@ If you want to support my developments you are welcome to buy me a cup of coffee
  * __Privatbank__: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
  * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
  * __WMZ__: Z375157140784
- * __WMU__: U449339012933
 
 #### What to Choose?
 The **Stable** version is intended for the general users. Please, try it in the first place. 

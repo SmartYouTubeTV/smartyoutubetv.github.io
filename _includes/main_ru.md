@@ -31,7 +31,6 @@
 - **Privatbank**: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 - **WMZ**: Z375157140784
-- **WMU**: U449339012933
 
 #### Что выбрать?
 

@@ -61,5 +61,5 @@
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Контакты
-> yu.liskov at gmail dot com  
-группа в telegram: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)
+> почта: yu.liskov at gmail dot com  
+> группа в Telegram: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

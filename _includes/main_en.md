@@ -28,7 +28,6 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 If you want to support my developments you are welcome to buy me a cup of coffee :)
  * __Privatbank__: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
  * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
- * __WMZ__: Z375157140784
 
 #### What to Choose?
 The **Stable** version is intended for the general users. Please, try it in the first place. 
@@ -59,4 +58,4 @@ All bugs tracked [here](https://github.com/yuliskov/SmartYouTubeTV/issues)
 
 #### Contacts
 > yu.liskov at gmail dot com  
-> telegram group: Smart YouTube
+telegram group: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

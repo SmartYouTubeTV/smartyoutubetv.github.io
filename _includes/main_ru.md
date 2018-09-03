@@ -30,7 +30,6 @@
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 - **Privatbank**: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
-- **WMZ**: Z375157140784
 
 #### Что выбрать?
 
@@ -63,4 +62,4 @@
 
 #### Контакты
 > yu.liskov at gmail dot com  
-> группа в telegram: Smart YouTube
+группа в telegram: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

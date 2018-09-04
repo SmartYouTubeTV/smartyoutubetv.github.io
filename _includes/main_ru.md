@@ -28,7 +28,7 @@
 
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- **Privatbank**: [https://sendmoney.privatbank.ua/ua/?hash=1780837895](https://sendmoney.privatbank.ua/ua/?hash=1780837895)
+- [**ПриватБанк (Украина)**](https://sendmoney.privatbank.ua/ru/?hash=1780837895)
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 #### Что выбрать?
@@ -61,5 +61,5 @@
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Контакты
-> почта: yu.liskov at gmail dot com  
-> группа в Telegram: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)
+> **Почта**: yu.liskov at gmail dot com  
+> **Группа в Telegram**: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

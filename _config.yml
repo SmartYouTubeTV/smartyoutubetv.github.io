@@ -10,6 +10,7 @@ url: https://yuliskov.github.io
 author: Yurii Lyskov
 logo: /images/site_logo.png
 email: firsthash@gmail.com
+donation_privatbank: https://privatbank.ua/ru/sendmoney?payment=5fcdddf53e3d491d63fcb050e6e2e05f2f2678c2
 exclude:
   - old
   - '*.bak'

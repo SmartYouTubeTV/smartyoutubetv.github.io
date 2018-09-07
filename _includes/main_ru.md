@@ -18,6 +18,7 @@
 #### Скачать
 - **[Стабильная версия]({{site.binaries.unified}})**   
 - [Детская версия]({{site.binaries.kids}})   
+- [LIVE версия]({{site.binaries.Live}})   
 - [Доп. компоненты]({{site.xwalk_libs}})
 
 #### Дополнительно

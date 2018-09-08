@@ -15,15 +15,15 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 
 #### Downloads
 - **[Stable version]({{site.binaries.unified}})**   
-- [Kids version]({{site.binaries.kids}})   
-- [LIVE version]({{site.binaries.Live}})   
-- [Add-ons]({{site.xwalk_libs}})
 
 #### Others
+- [Kids version]({{site.binaries.kids}})  
+- [LIVE version]({{site.binaries.Live}})  
+- [MiTV2 version]({{site.binaries.MiTV2}})  
+- [MysteryTV version]({{site.binaries.MiTV2}})  
+- [Add-ons]({{site.xwalk_libs}})
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**  
-- [MiTV2 version]({{site.binaries.MiTV2}})   
-- [MysteryTV version]({{site.binaries.MiTV2}})   
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
@@ -35,6 +35,8 @@ The **Stable** version is intended for the general users. Please, try it in the 
 Immediately after start of the **Stable** version you will see four different launchers: 1080 Main, 1080 Alt, 4K Main and 4K Alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
 **Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
+
+**LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
 
 **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 

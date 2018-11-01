@@ -20,7 +20,7 @@
 
 #### Дополнительно
 - [Детская версия]({{site.binaries.kids}})   
-- [LIVE версия]({{site.binaries.Live}})   
+<!-- - [LIVE версия]({{site.binaries.Live}})    -->
 - [MiTV2 версия]({{site.binaries.MiTV2}})   
 - [Mystery версия]({{site.binaries.MiTV2}})   
 - [Доп. компоненты]({{site.xwalk_libs}})

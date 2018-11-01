@@ -18,7 +18,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 
 #### Others
 - [Kids version]({{site.binaries.kids}})  
-- [LIVE version]({{site.binaries.Live}})  
+<!-- - [LIVE version]({{site.binaries.Live}})   -->
 - [MiTV2 version]({{site.binaries.MiTV2}})  
 - [MysteryTV version]({{site.binaries.MiTV2}})  
 - [Add-ons]({{site.xwalk_libs}})

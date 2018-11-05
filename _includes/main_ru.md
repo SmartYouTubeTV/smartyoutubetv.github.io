@@ -17,6 +17,7 @@
 
 #### Скачать
 - **[Стабильная версия]({{site.binaries.unified}})**   
+- **[Тестовая версия]({{site.binaries.unified_test}})**   
 
 #### Дополнительно
 - [Детская версия]({{site.binaries.kids}})   

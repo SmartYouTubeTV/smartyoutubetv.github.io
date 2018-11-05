@@ -15,13 +15,14 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 
 #### Downloads
 - **[Stable version]({{site.binaries.unified}})**   
+- **[Test version]({{site.binaries.unified_test}})**   
 
 #### Others
 - [Kids version]({{site.binaries.kids}})  
 <!-- - [LIVE version]({{site.binaries.Live}})   -->
 - [MiTV2 version]({{site.binaries.MiTV2}})  
 - [MysteryTV version]({{site.binaries.MiTV2}})  
-- [Add-ons]({{site.xwalk_libs}})
+- [Components]({{site.xwalk_libs}})
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**  
 
@@ -40,7 +41,7 @@ Immediately after start of the **Stable** version you will see four different la
 
 **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 
-**Add-ons** - video output engines. Used in 1080 and 4K alt versions. Download is needed only in case when main app can't do it automatically.
+**Components** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically.
 
 #### Found a bug?
 __[Then you should go there](https://github.com/yuliskov/SmartYouTubeTV/issues)__

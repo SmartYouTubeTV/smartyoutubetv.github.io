@@ -19,7 +19,7 @@ lang:
   - en
   - ru
 binaries:
-  unified: https://drive.google.com/uc?id=1PNL6uaRdKZS56f0fqtd9QZUU5WE-75ob
+  unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk
   unified_test: https://github.com/yuliskov/SmartYouTubeTV/releases/
   kids: https://drive.google.com/uc?id=10Ba2k3enGyD9MK3UDiPRF5W_qp8oL0Uk
   MiTV2: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk

@@ -38,7 +38,7 @@ Immediately after start of the **Stable** version you will see four different la
 
 **Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
 
-**LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
+<!-- **LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com) -->
 
 **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
 

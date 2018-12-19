@@ -20,10 +20,10 @@
 - **[Тестовая версия]({{site.binaries.unified_test}})**   
 
 #### Дополнительно
-- [Детская версия]({{site.binaries.kids}})   
+- [Ютуб для детей]({{site.binaries.kids}})   
 <!-- - [LIVE версия]({{site.binaries.Live}})    -->
-- [MiTV2 версия]({{site.binaries.MiTV2}})   
-- [Mystery версия]({{site.binaries.MiTV2}})   
+<!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
+<!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 - [Доп. компоненты]({{site.xwalk_libs}})
 - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
 - **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)**  

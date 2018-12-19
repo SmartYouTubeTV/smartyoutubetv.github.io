@@ -27,7 +27,7 @@
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 - [Доп. компоненты]({{site.xwalk_libs}})
 - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
-- **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)**  
+- [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
 
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)

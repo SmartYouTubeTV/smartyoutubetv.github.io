@@ -24,7 +24,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 - [Add-ons]({{site.xwalk_libs}})
 - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)  
-- **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**  
+- [Source code](https://github.com/yuliskov/SmartYouTubeTV)  
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)

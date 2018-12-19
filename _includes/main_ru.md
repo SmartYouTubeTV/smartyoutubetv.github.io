@@ -30,8 +30,8 @@
 
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
+- [**Donation Alerts (RU, PayPal)**](https://www.donationalerts.ru/r/firsthash)
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})
-- [**Donation Alerts (RU)**](https://www.donationalerts.ru/r/firsthash)
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 #### Что выбрать?

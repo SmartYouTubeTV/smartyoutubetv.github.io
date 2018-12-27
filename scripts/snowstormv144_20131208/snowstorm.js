@@ -15,6 +15,7 @@ var snowStorm = (function(window, document) {
 
   // --- common properties ---
 
+  this.activeMonths = [12, 1, 2]; // Enabled in December, January and February. Set empty to enable on every month.
   this.autoStart = true;          // Whether the snow should start automatically or not.
   this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) Enable at your own risk.
   this.flakesMax = 128;           // Limit total amount of snow made (falling + sticking)
@@ -25,8 +26,7 @@ var snowStorm = (function(window, document) {
   this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) By default, be nice.
   this.flakeBottom = null;        // Integer for Y axis snow limit, 0 or null for "full-screen" snow effect
   this.followMouse = true;        // Snow movement can respond to the user's mouse
-  this.snowColor = '#0099ff';
-  //this.snowColor = '#fff';        // Don't eat (or use?) yellow snow.
+  this.snowColor = '#0099ff';     // Don't eat (or use?) yellow snow.
   this.snowCharacter = '&bull;';  // &bull; = bullet, &middot; is square on some systems etc.
   this.snowStick = true;          // Whether or not snow should "stick" at the bottom. When off, will never collect.
   this.targetElement = null;      // element which snow will be appended to (null = document.body) - can be an element ID eg. 'myDiv', or a DOM node reference
@@ -641,6 +641,24 @@ var snowStorm = (function(window, document) {
     }
   };
 
+  this.isProperTime = function() {
+    if (storm.activeMonths.length) {
+      var d = new Date();
+      var month = d.getMonth() + 1; // months start with zero
+
+      for (var i = 0; i < activeMonths.length; i++) {
+        var activeMonth = activeMonths[i];
+        if (activeMonth == month) {
+          return true;
+        }
+      }
+
+      return false;
+    }
+
+    return true;
+  };
+
   function doDelayedStart() {
     window.setTimeout(function() {
       storm.start(true);
@@ -658,7 +676,7 @@ var snowStorm = (function(window, document) {
   }
 
   // hooks for starting the snow
-  if (storm.autoStart) {
+  if (storm.autoStart && storm.isProperTime()) {
     storm.events.add(window, 'load', doStart, false);
   }
 

@@ -48,7 +48,8 @@ Immediately after start of the **Stable** version you will see four different la
 __[Then you should go there](https://github.com/yuliskov/SmartYouTubeTV/issues)__
 
 #### Known issues
-- `voice search` not supported
+<!-- - `voice search` not supported -->
+- codec issues on some devices (old ones mainly)
 - can't change `user region` beside the default one
 - autoframerate issues on Zidoo devices
 

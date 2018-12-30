@@ -18,15 +18,15 @@
 
 #### Скачать
 - **[Стабильная версия]({{site.binaries.unified}})**   
-- **[Тестовая версия]({{site.binaries.unified_test}})**   
+- **[Тестовые версии]({{site.binaries.unified_test}})**   
 
 #### Дополнительно
-- [Ютуб для детей]({{site.binaries.kids}})   
+- [YouTube Kids]({{site.binaries.kids}})   
 <!-- - [LIVE версия]({{site.binaries.Live}})    -->
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
-- [Доп. компоненты]({{site.xwalk_libs}})
-- [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)  
+- [Доп. apk]({{site.xwalk_libs}})
+<!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
 - [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
 
 #### Понравился проект?

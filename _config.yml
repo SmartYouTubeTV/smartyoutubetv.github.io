@@ -30,6 +30,11 @@ xwalk_libs:
   https://drive.google.com/open?id=1_HM4DDAbCchAkCcAruWnJ4cGYDfXLEw9
 bottom-links:
   -
+    url: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk
+    title: Stable release
+    title_en: Stable release
+    title_ru: Стабильный релиз
+  -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/
     title: All Releases
     title_en: All Releases

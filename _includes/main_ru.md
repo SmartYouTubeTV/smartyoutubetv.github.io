@@ -17,8 +17,8 @@
 {% include home-screenshots.html %}
 
 #### Скачать
-- **[Стабильная версия]({{site.binaries.unified}})**   
-- **[Тестовые версии]({{site.binaries.unified_test}})**   
+- **[Стабильный релиз]({{site.binaries.unified}})**   
+- **[Тестовые релизы]({{site.binaries.unified_test}})**   
 
 #### Дополнительно
 - [YouTube Kids]({{site.binaries.kids}})   

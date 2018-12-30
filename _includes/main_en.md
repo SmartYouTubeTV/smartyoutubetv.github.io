@@ -14,8 +14,8 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 {% include home-screenshots.html %}
 
 #### Downloads
-- **[Stable version]({{site.binaries.unified}})**   
-- **[Test versions]({{site.binaries.unified_test}})**   
+- **[Stable release]({{site.binaries.unified}})**   
+- **[Test releases]({{site.binaries.unified_test}})**   
 
 #### Others
 - [YouTube Kids]({{site.binaries.kids}})  

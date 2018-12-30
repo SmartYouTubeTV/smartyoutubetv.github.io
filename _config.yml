@@ -36,13 +36,13 @@ bottom-links:
     title_ru: Стабильный релиз
   -
     url: https://github.com/yuliskov/SmartYouTubeTV/releases/
-    title: All Releases
-    title_en: All Releases
-    title_ru: Все релизы
+    title: Test releases
+    title_en: Test releases
+    title_ru: Тестовые релизы
   -
     url: https://github.com/yuliskov/SmartYouTubeTV
-    title: Source Code
-    title_en: Source Code
+    title: Source code
+    title_en: Source code
     title_ru: Исходный код
 gems:
   - jekyll-seo-tag

@@ -28,7 +28,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
- * [__Donation Alerts (RU, PayPal)__](https://www.donationalerts.ru/r/firsthash)
+ * [__Donation Alerts (PayPal)__]({{site.donation_paypal}})
  * [__PrivatBank (UA)__]({{site.donation_privatbank}})
  * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 

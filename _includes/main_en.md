@@ -36,13 +36,13 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 The **Stable** version is intended for the general users. Please, try it in the first place. 
 Immediately after start of the **Stable** version you will see four different launchers: 1080 Main, 1080 Alt, 4K Main and 4K Alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
 
-**Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
+**YouTube Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
 
 <!-- **LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com) -->
 
-**MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too.
+<!-- **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too. -->
 
-**Components** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically.
+**Additional apk** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically.
 
 #### Found a bug?
 __[Then you should go there](https://github.com/yuliskov/SmartYouTubeTV/issues)__

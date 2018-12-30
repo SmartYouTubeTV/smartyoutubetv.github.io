@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Главная страница
+title: Главная
 hide_title: true
 comments: true
 weight: 1

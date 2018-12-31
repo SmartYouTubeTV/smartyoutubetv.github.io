@@ -18,12 +18,12 @@
 
 <a name="releases-section"/>
 #### Скачать
-- **[Стабильный релиз]({{site.binaries.unified}})**   
-- **[Тестовые релизы]({{site.binaries.unified_test}})**   
+- **[Стабильный релиз]({{site.binaries.unified}})**
+- [Тестовые релизы]({{site.binaries.unified_test}})  
 
 <a name="source-code-section"/>
 #### Дополнительно
-- [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)
+- **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)**
 - [Доп. apk]({{site.xwalk_libs}})
 - [YouTube Kids]({{site.binaries.kids}})
 <!-- - [LIVE версия]({{site.binaries.Live}})    -->

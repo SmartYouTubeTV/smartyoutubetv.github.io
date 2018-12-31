@@ -16,11 +16,11 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <a name="releases-section"/>
 #### Downloads
 - **[Stable release]({{site.binaries.unified}})**   
-- **[Test releases]({{site.binaries.unified_test}})**   
+- [Test releases]({{site.binaries.unified_test}})   
 
 <a name="source-code-section"/>
 #### Others
-- [Source code](https://github.com/yuliskov/SmartYouTubeTV)
+- **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**
 - [Additional apk]({{site.xwalk_libs}})
 - [YouTube Kids]({{site.binaries.kids}})
 <!-- - [LIVE version]({{site.binaries.Live}})   -->

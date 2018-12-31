@@ -16,19 +16,22 @@
 #### Скриншоты
 {% include home-screenshots.html %}
 
+<a name="releases-section"/>
 #### Скачать
 - **[Стабильный релиз]({{site.binaries.unified}})**   
 - **[Тестовые релизы]({{site.binaries.unified_test}})**   
 
+<a name="source-code-section"/>
 #### Дополнительно
-- [YouTube Kids]({{site.binaries.kids}})   
+- [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)
+- [Доп. apk]({{site.xwalk_libs}})
+- [YouTube Kids]({{site.binaries.kids}})
 <!-- - [LIVE версия]({{site.binaries.Live}})    -->
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
-- [Доп. apk]({{site.xwalk_libs}})
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
-- [Исходный код](https://github.com/yuliskov/SmartYouTubeTV)  
 
+<a name="donation-section"/>
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 - [**Donation Alerts (PayPal)**]({{site.donation_paypal}})

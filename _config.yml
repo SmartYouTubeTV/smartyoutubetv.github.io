@@ -30,20 +30,20 @@ xwalk_libs:
   https://drive.google.com/open?id=1_HM4DDAbCchAkCcAruWnJ4cGYDfXLEw9
 bottom-links:
   -
-    url: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk
-    title: Stable release
-    title_en: Stable release
-    title_ru: Стабильный релиз
+    url: "#releases-section"
+    title: Releases
+    title_en: Releases
+    title_ru: Релизы
   -
-    url: https://github.com/yuliskov/SmartYouTubeTV/releases/
-    title: Test releases
-    title_en: Test releases
-    title_ru: Тестовые релизы
-  -
-    url: https://github.com/yuliskov/SmartYouTubeTV
+    url: "#source-code-section"
     title: Source code
     title_en: Source code
     title_ru: Исходный код
+  -
+    url: "#donation-section"
+    title: Donation
+    title_en: Donation
+    title_ru: Помочь в разработке
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap

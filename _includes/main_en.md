@@ -31,7 +31,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <a name="donation-section"/>
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
- * [__Donation Alerts (PayPal)__]({{site.donation_paypal}})
+ * [__Donation Alerts (PayPal, QIWI etc)__]({{site.donation_paypal}})
  * [__PrivatBank (UA)__]({{site.donation_privatbank}})
  * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
@@ -48,7 +48,7 @@ Immediately after start of the **Stable** version you will see four different la
 **Additional apk** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically.
 
 #### Found a bug?
-__[Then you should go there](https://github.com/yuliskov/SmartYouTubeTV/issues)__
+Then you should go __[there](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or __[there](http://t.me/SmartYouTubeTV_en)__
 
 #### Known issues
 <!-- - `voice search` not supported -->
@@ -66,5 +66,6 @@ __[Then you should go there](https://github.com/yuliskov/SmartYouTubeTV/issues)_
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Contacts
+> __Telegram group (EN)__: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> __Telegram group (RU)__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
 > __Email__: yu.liskov at gmail dot com  
-> __Telegram group__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

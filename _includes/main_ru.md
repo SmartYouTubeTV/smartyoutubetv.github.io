@@ -34,7 +34,7 @@
 <a name="donation-section"/>
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- [**Donation Alerts (PayPal)**]({{site.donation_paypal}})
+- [**Donation Alerts (PayPal, QIWI и т.д.)**]({{site.donation_paypal}})
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
@@ -52,7 +52,7 @@
 **Доп. apk** - это движки вывода вывода. Используются в 1080 и 4K alt версиях. Качайте их только в том случае, если само приложение не в состоянии их поставить.
 
 #### Нашли баг?
-**[Тогда вам сюда](https://github.com/yuliskov/SmartYouTubeTV/issues)**
+Тогда вам **[сюда](https://github.com/yuliskov/SmartYouTubeTV/issues)** или **[сюда](http://t.me/SmartYouTubeTV)**
 
 #### Известные проблемы
 <!-- - не работает `голосовой поиск` -->
@@ -71,5 +71,6 @@
 - **[yuliskov](https://github.com/yuliskov)**
 
 #### Контакты
+> **Группа в Telegram (EN)**: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> **Группа в Telegram (RU)**: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
 > **Почта**: yu.liskov at gmail dot com  
-> **Группа в Telegram**: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)

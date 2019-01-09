@@ -34,7 +34,7 @@
 <a name="donation-section"/>
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- [**Donation Alerts (PayPal, QIWI и т.д.)**]({{site.donation_paypal}})
+<!-- - [**Donation Alerts (PayPal, QIWI и т.д.)**]({{site.donation_paypal}}) -->
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 

@@ -15,8 +15,10 @@ var snowStorm = (function(window, document) {
 
   // --- common properties ---
 
-  this.activeMonths = [12, 1, 2]; // Enabled in December, January and February. Set empty to enable on every month.
-  this.randomSnowColor = false;        // New color on every particle (overrides snowColor param)
+  this.activeMonths = [12, 1];    // Enabled in December and January. Set empty to enable on every month.
+  this.startDate = 15;            // Starting from December 15. Set to 0 enable on every day.
+  this.endDate = 15;              // Ending on January 15. Set to 0 enable on every day.
+  this.randomSnowColor = false;   // New color on every particle (overrides snowColor param)
   
   this.autoStart = true;          // Whether the snow should start automatically or not.
   this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) Enable at your own risk.
@@ -647,9 +649,24 @@ var snowStorm = (function(window, document) {
     if (storm.activeMonths.length) {
       var d = new Date();
       var month = d.getMonth() + 1; // months start with zero
+      var day = d.getDate();
 
-      for (var i = 0; i < activeMonths.length; i++) {
-        var activeMonth = activeMonths[i];
+      if (month == storm.activeMonths[0]) {
+        // check lower bounds
+        if (storm.startDate && day < storm.startDate) {
+          return false;
+        }
+      }
+
+      if (month == storm.activeMonths[storm.activeMonths.length - 1]) {
+        // check upper bounds
+        if (storm.endDate && day > storm.endDate) {
+          return false;
+        }
+      }
+
+      for (var i = 0; i < storm.activeMonths.length; i++) {
+        var activeMonth = storm.activeMonths[i];
         if (activeMonth == month) {
           return true;
         }

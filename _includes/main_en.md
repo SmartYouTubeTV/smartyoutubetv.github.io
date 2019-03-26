@@ -23,7 +23,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 - **[Source code](https://github.com/yuliskov/SmartYouTubeTV)**
 - [Additional apk]({{site.xwalk_libs}})
 - [YouTube Kids]({{site.binaries.kids}})
-<!-- - [LIVE version]({{site.binaries.Live}})   -->
+- [LIVE version]({{site.binaries.Live}})  
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
@@ -41,7 +41,7 @@ Immediately after start of the **Stable** version you will see four different la
 
 **YouTube Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
 
-<!-- **LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com) -->
+**LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
 
 <!-- **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too. -->
 

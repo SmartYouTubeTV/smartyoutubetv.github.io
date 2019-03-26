@@ -26,7 +26,7 @@
 - **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)**
 - [Доп. apk]({{site.xwalk_libs}})
 - [YouTube Kids]({{site.binaries.kids}})
-<!-- - [LIVE версия]({{site.binaries.Live}})    -->
+- [LIVE версия]({{site.binaries.Live}})   
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
@@ -45,7 +45,7 @@
 
 **YouTube Kids** - это сервис видео-контента для детей дошкольного возраста. [Больше информации](https://kids.youtube.com)
 
-<!-- **LIVE** версия - просмотр тв каналов на вашем устройстве. Во многих странах не доступна. [Больше информации](https://tv.youtube.com) -->
+**LIVE** версия - просмотр тв каналов на вашем устройстве. Во многих странах не доступна. [Больше информации](https://tv.youtube.com)
 
 <!-- **MiTV2** и **Mystery** версии разработаны специально для одноименных устройств, но вы также можете их попробовать. -->
 

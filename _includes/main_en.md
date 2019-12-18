@@ -23,7 +23,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 If you want to support my developments you are welcome to buy me a cup of coffee :)
  * [__PrivatBank (UA)__]({{site.donation_privatbank}})
  * [__QIWI (RU)__]({{site.donation_qiwi}})
- * [__Donation Alerts (PayPal, QIWI etc)__]({{site.donation_paypal}})
+ * [__Donation Alerts (PayPal)__]({{site.donation_paypal}})
  * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 <a name="source-code-section"/>

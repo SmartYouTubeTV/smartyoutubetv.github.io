@@ -16,7 +16,15 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <a name="releases-section"/>
 #### Downloads
 - **[Stable release]({{site.binaries.unified}})**   
-- [Test releases]({{site.binaries.unified_test}})   
+- [Other releases]({{site.binaries.unified_test}})   
+
+<a name="donation-section"/>
+#### Donation
+If you want to support my developments you are welcome to buy me a cup of coffee :)
+ * [__PrivatBank (UA)__]({{site.donation_privatbank}})
+ * [__QIWI (RU)__]({{site.donation_qiwi}})
+ * [__Donation Alerts (PayPal, QIWI etc)__]({{site.donation_paypal}})
+ * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 <a name="source-code-section"/>
 #### Others
@@ -27,14 +35,6 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
-
-<a name="donation-section"/>
-#### Donation
-If you want to support my developments you are welcome to buy me a cup of coffee :)
- * [__PrivatBank (UA)__]({{site.donation_privatbank}})
- * [__QIWI (RU)__]({{site.donation_qiwi}})
- * [__Donation Alerts (PayPal, QIWI etc)__]({{site.donation_paypal}})
- * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 #### What to Choose?
 The **Stable** version is intended for the general users. Please, try it in the first place. 

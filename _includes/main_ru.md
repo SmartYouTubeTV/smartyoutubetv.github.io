@@ -19,7 +19,15 @@
 <a name="releases-section"/>
 #### Скачать
 - **[Стабильный релиз]({{site.binaries.unified}})**
-- [Тестовые релизы]({{site.binaries.unified_test}})  
+- [Другие релизы]({{site.binaries.unified_test}})  
+
+<a name="donation-section"/>
+#### Понравился проект?
+Если хотите поддержать разработку, то можете купить мне чашку кофе)
+- [**ПриватБанк (UA)**]({{site.donation_privatbank}})
+- [**QIWI (RU)**]({{site.donation_qiwi}})
+- [**Donation Alerts (PayPal, QIWI и т.д.)**]({{site.donation_paypal}})
+- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 <a name="source-code-section"/>
 #### Дополнительно
@@ -30,14 +38,6 @@
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
-
-<a name="donation-section"/>
-#### Понравился проект?
-Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- [**ПриватБанк (UA)**]({{site.donation_privatbank}})
-- [**QIWI (RU)**]({{site.donation_qiwi}})
-- [**Donation Alerts (PayPal, QIWI и т.д.)**]({{site.donation_paypal}})
-- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 
 #### Что выбрать?
 

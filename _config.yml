@@ -23,11 +23,11 @@ lang:
   - ru
 binaries:
   unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk
+  kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/kidsyoutubetv_latest.apk
+  Live: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.16.89/SYTV_Vlive_v6.16.89_r.apk
   unified_test: https://github.com/yuliskov/SmartYouTubeTV/releases/
-  kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.16.89/SYTV_Vkids_v6.16.89_r.apk
   MiTV2: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
   Mystery: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
-  Live: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.16.89/SYTV_Vlive_v6.16.89_r.apk
 xwalk_libs:
   https://drive.google.com/open?id=1_HM4DDAbCchAkCcAruWnJ4cGYDfXLEw9
 bottom-links:

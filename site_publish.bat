@@ -7,3 +7,5 @@ cd /d "%~dp0"
 git add --all
 git commit -m "autogen: update site"
 git push
+
+pause

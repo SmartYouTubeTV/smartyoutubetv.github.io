@@ -16,8 +16,8 @@ var snowStorm = (function(window, document) {
   // --- common properties ---
 
   this.activeMonths = [12, 1];    // Enabled in December and January. Set empty to enable on every month.
-  this.startDate = 20;            // Starting from December 20. Set to 0 enable on every day.
-  this.endDate = 10;              // Ending on January 10. Set to 0 enable on every day.
+  this.startDate = 25;            // Starting from December 25 (first Christmas Day). Set to 0 enable on every day.
+  this.endDate = 7;               // Ending on January 7 (second Christmas Day). Set to 0 enable on every day.
   this.randomSnowColor = false;   // New color on every particle (overrides snowColor param)
   
   this.autoStart = true;          // Whether the snow should start automatically or not.

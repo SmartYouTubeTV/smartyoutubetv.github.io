@@ -32,9 +32,9 @@
 <a name="source-code-section"/>
 #### Дополнительно
 - **[YouTube Kids]({{site.binaries.kids}})**
-- [YouTube LIVE]({{site.binaries.Live}})
+<!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
 <!-- - **[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)** -->  
-<!-- - [Доп. apk]({{site.xwalk_libs}}) -->
+- [Доп. apk]({{site.xwalk_libs}})
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->

@@ -38,7 +38,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 #### What to Choose?
 The **Stable** version is intended for the general users. Please, try it in the first place. 
-Immediately after start of the **Stable** version you will see four different launchers: 1080 Main, 1080 Alt, 4K Main and 4K Alt. They may have different performance depending on the device. Try launchers one by one until you find best one. Also, 4K launchers supports QHD and UHD playback.
+Immediately after start of the **Stable** version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one.
 
 **YouTube Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
 

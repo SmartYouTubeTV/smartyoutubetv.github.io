@@ -27,7 +27,7 @@
 <a name="releases-section"/>
 #### Скачать
 - **[Стабильный релиз]({{site.binaries.unified}})**
-- [Бета релиз]({{site.binaries.unified_beta}})  
+- **[Бета релиз]({{site.binaries.unified_beta}})**  
 
 <a name="source-code-section"/>
 #### Дополнительно

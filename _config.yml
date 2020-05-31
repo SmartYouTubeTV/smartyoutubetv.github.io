@@ -24,6 +24,7 @@ lang:
   - ru
 binaries:
   unified: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/smartyoutubetv_latest.apk
+  unified_beta: https://github.com/yuliskov/SmartYouTubeTV/releases/download/beta/smartyoutubetv_latest.apk
   kids: https://github.com/yuliskov/SmartYouTubeTV/releases/download/stable/kidsyoutubetv_latest.apk
   Live: https://github.com/yuliskov/SmartYouTubeTV/releases/download/6.16.89/SYTV_Vlive_v6.16.89_r.apk
   unified_test: https://github.com/yuliskov/SmartYouTubeTV/releases/

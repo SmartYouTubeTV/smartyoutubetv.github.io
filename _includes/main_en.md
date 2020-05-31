@@ -24,7 +24,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <a name="releases-section"/>
 #### Downloads
 - **[Stable release]({{site.binaries.unified}})**
-- [Beta releases]({{site.binaries.unified_test}})   
+- [Beta release]({{site.binaries.unified_beta}})   
 
 <a name="source-code-section"/>
 #### Others

@@ -19,8 +19,9 @@
 <a name="donation-section"/>
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- [**QIWI (Visa, Mastercard)**]({{site.donation_qiwi}})
+- [**PayPal**]({{site.donation_paypal2}})
 - [**Donation Alerts (PayPal)**]({{site.donation_paypal}})
+- [**QIWI (Visa, Mastercard)**]({{site.donation_qiwi}})
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})
 - **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
 

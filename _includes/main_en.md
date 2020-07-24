@@ -16,7 +16,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 <a name="donation-section"/>
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
- * [__PayPal__]({{site.donation_paypal2}})
+ <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
  * [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
  * [__QIWI (VISA)__]({{site.donation_qiwi}})
  * [__PrivatBank (UA)__]({{site.donation_privatbank}})

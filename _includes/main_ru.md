@@ -19,7 +19,7 @@
 <a name="donation-section"/>
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
-- [**PayPal**]({{site.donation_paypal2}})
+<!-- - [**PayPal**]({{site.donation_paypal2}}) -->
 - [**Donation Alerts (PayPal)**]({{site.donation_paypal}})
 - [**QIWI (Visa, Mastercard)**]({{site.donation_qiwi}})
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})

@@ -25,7 +25,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <a name="releases-section"/>
 #### Downloads
 - **[Stable release]({{site.binaries.unified}})**
-- **[Beta release]({{site.binaries.unified_beta}})**   
+- **[Beta release]({{site.binaries.unified_beta}})** (codename _SmartTubeNext_)
 
 <a name="source-code-section"/>
 #### Others
@@ -50,7 +50,7 @@ Immediately after start of the **Stable** version you will see four different la
 <!-- **Additional apk** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically. -->
 
 #### Found a bug?
-Then you should go __[there](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or __[there](http://t.me/SmartYouTubeTV_en)__
+You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or tell us in our Telegram group (see below).
 
 <!-- #### Contributors
  * __[WolfganP](https://github.com/WolfganP)__ (README)
@@ -62,6 +62,9 @@ Then you should go __[there](https://github.com/yuliskov/SmartYouTubeTV/issues)_
 - **[yuliskov](https://github.com/yuliskov)** -->
 
 #### Contacts
-> __Telegram group (EN)__: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
-> __Telegram group (RU)__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
+
+> __Telegram group (EN)__: [@SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> __Telegram group (RU)__: [@SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
+> __Telegram group BETA (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
+> __Telegram group BETA (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
 > __Email__: {{site.email2}}  

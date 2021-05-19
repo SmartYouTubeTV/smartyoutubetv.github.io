@@ -17,6 +17,7 @@
 - поддержка всех языков
 
 <a name="donation-section"/>
+
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
@@ -30,11 +31,13 @@
 - __XMR: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT__
 
 <a name="releases-section"/>
+
 #### Скачать
 - __[Стабильный релиз]({{site.binaries.unified}})__
 - __[Бета релиз]({{site.binaries.unified_beta}})__  
 
 <a name="source-code-section"/>
+
 #### Дополнительно
 - __[YouTube Kids]({{site.binaries.kids}})__
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->

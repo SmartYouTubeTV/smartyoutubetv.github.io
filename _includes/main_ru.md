@@ -23,7 +23,11 @@
 - [**Donation Alerts (PayPal)**]({{site.donation_paypal}})
 - [**QIWI (Visa, Mastercard)**]({{site.donation_qiwi}})
 - [**ПриватБанк (UA)**]({{site.donation_privatbank}})
-- **BTC**: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+- __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
+- __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__
+- __ETH: 0xe455E21a085ae195a097cd4F456051A9916A5064__
+- __ETC: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815__
+- __XMR: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT__
 
 <a name="releases-section"/>
 #### Скачать

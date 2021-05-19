@@ -17,10 +17,14 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
  <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
- * [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
- * [__QIWI (VISA)__]({{site.donation_qiwi}})
- * [__PrivatBank (UA)__]({{site.donation_privatbank}})
- * __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+ - [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
+ - [__QIWI (RU)__]({{site.donation_qiwi}})
+ - [__PrivatBank (UA)__]({{site.donation_privatbank}})
+ - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
+ - __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__
+ - __ETH: 0xe455E21a085ae195a097cd4F456051A9916A5064__
+ - __ETC: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815__
+ - __XMR: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT__
 
 <a name="releases-section"/>
 #### Downloads

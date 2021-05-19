@@ -6,7 +6,7 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 {% include home-screenshots.html %}
 
 #### Features
-- **4K support**
+- __4K support__
 - runs without Google Services
 - designed for TV screens
 - stock controller support
@@ -28,33 +28,33 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 <a name="releases-section"/>
 #### Downloads
-- **[Stable release]({{site.binaries.unified}})**
-- **[Beta release]({{site.binaries.unified_beta}})**   
+- __[Stable release]({{site.binaries.unified}})__
+- __[Beta release]({{site.binaries.unified_beta}})__ (codename _SmartTubeNext_)   
 
 <a name="source-code-section"/>
 #### Others
-- **[YouTube Kids]({{site.binaries.kids}})**
+- __[YouTube Kids]({{site.binaries.kids}})__
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
-<!-- - **[Source code](https://github.com/yuliskov/SmartYouTubeTV)** -->
+<!-- - __[Source code](https://github.com/yuliskov/SmartYouTubeTV)__ -->
 - [Additional apk]({{site.xwalk_libs}})
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
 
 #### What to Choose?
-The **Stable** version is intended for the general users. Please, try it in the first place. 
-Immediately after start of the **Stable** version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one.
+The __Stable__ version is intended for the general users. Please, try it in the first place. 
+Immediately after start of the __Stable__ version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one.
 
-**YouTube Kids** version is the video service for early childhood education. [More info](https://kids.youtube.com)
+__YouTube Kids__ version is the video service for early childhood education. [More info](https://kids.youtube.com)
 
-**YouTube LIVE** version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
+__YouTube LIVE__ version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
 
-<!-- **MiTV2** and **Mystery** versions primarily intended for the specific device users but you may try them too. -->
+<!-- __MiTV2__ and __Mystery__ versions primarily intended for the specific device users but you may try them too. -->
 
-<!-- **Additional apk** - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically. -->
+<!-- __Additional apk__ - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically. -->
 
 #### Found a bug?
-Then you should go __[there](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or __[there](http://t.me/SmartYouTubeTV_en)__
+You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or tell us in our Telegram group (see below).
 
 <!-- #### Contributors
  * __[WolfganP](https://github.com/WolfganP)__ (README)
@@ -63,9 +63,11 @@ Then you should go __[there](https://github.com/yuliskov/SmartYouTubeTV/issues)_
  * __[Maikell84](https://github.com/Maikell84)__ (misc fixes) -->
 
 <!-- #### Developer
-- **[yuliskov](https://github.com/yuliskov)** -->
+- __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Contacts
-> __Telegram group (EN)__: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
-> __Telegram group (RU)__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
-> __Email__: {{site.email2}}  
+> __Telegram group (EN)__: [@SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> __Telegram group (RU)__: [@SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
+> __Telegram group Next (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
+> __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
+> __Email__: {{site.email2}} 

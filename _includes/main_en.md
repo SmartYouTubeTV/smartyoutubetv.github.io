@@ -14,10 +14,10 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 - fully localized
 
 <a name="donation-section"/>
+
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
-
 - [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
 - [__QIWI (RU)__]({{site.donation_qiwi}})
 - [__PrivatBank (UA)__]({{site.donation_privatbank}})
@@ -28,14 +28,14 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 - __XMR: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT__
 
 <a name="releases-section"/>
-#### Downloads
 
+#### Downloads
 - __[Stable release]({{site.binaries.unified}})__
 - __[Beta release]({{site.binaries.unified_beta}})__ (codename _SmartTubeNext_)   
 
 <a name="source-code-section"/>
-#### Others
 
+#### Others
 - __[YouTube Kids]({{site.binaries.kids}})__
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
 <!-- - __[Source code](https://github.com/yuliskov/SmartYouTubeTV)__ -->

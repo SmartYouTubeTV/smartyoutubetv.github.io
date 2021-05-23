@@ -35,11 +35,11 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 <a name="source-code-section"/>
 
-#### Others
+#### Source code
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
-<!-- - __[Source code](https://github.com/yuliskov/SmartYouTubeTV)__ -->
-- [Additional apk]({{site.xwalk_libs}})
+- __[Source code](https://github.com/yuliskov/SmartTubeNext)__
+<!-- - [Additional apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->

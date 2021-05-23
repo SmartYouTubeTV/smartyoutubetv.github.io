@@ -38,11 +38,11 @@
 
 <a name="source-code-section"/>
 
-#### Дополнительно
+#### Исходный код
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
-<!-- - __[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)__ -->  
-- [Доп. apk]({{site.xwalk_libs}})
+- __[Исходный код](https://github.com/yuliskov/SmartTubeNext)__  
+<!-- - [Доп. apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->

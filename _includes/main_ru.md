@@ -39,7 +39,7 @@
 <a name="source-code-section"/>
 
 #### Дополнительно
-- __[YouTube Kids]({{site.binaries.kids}})__
+<!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
 <!-- - __[Исходный код](https://github.com/yuliskov/SmartYouTubeTV)__ -->  
 - [Доп. apk]({{site.xwalk_libs}})

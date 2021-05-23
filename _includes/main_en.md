@@ -36,7 +36,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <a name="source-code-section"/>
 
 #### Others
-- __[YouTube Kids]({{site.binaries.kids}})__
+<!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
 <!-- - __[Source code](https://github.com/yuliskov/SmartYouTubeTV)__ -->
 - [Additional apk]({{site.xwalk_libs}})

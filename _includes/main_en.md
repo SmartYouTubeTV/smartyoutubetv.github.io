@@ -45,12 +45,13 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
 
 #### What to Choose?
-The __Stable__ version is intended for the general users. Please, try it in the first place. 
-Immediately after start of the __Stable__ version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one.
+The __Stable__ version is intended for the casual users.
+The __Beta__ version is intended advanced users which what to have 4K and customizable UI. 
+<!-- Immediately after start of the __Stable__ version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one. -->
 
-__YouTube Kids__ version is the video service for early childhood education. [More info](https://kids.youtube.com)
+<!-- __YouTube Kids__ version is the video service for early childhood education. [More info](https://kids.youtube.com) -->
 
-__YouTube LIVE__ version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com)
+<!-- __YouTube LIVE__ version - watch TV channels on your device. Not available in most countries. [More info](https://tv.youtube.com) -->
 
 <!-- __MiTV2__ and __Mystery__ versions primarily intended for the specific device users but you may try them too. -->
 

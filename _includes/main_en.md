@@ -20,7 +20,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
 - [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
 - [__QIWI (RU)__]({{site.donation_qiwi}})
-- [__PrivatBank (UA)__]({{site.donation_privatbank}})
+<!-- - [__PrivatBank (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
 - __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__
 - __ETH: 0xe455E21a085ae195a097cd4F456051A9916A5064__
@@ -70,8 +70,8 @@ You can report in the __[issue tracker on Github](https://github.com/yuliskov/Sm
 - __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Contacts
-> __Telegram group (EN)__: [@SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
-> __Telegram group (RU)__: [@SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
 > __Telegram group Next (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
 > __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
+> __Telegram group (EN)__: [@SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> __Telegram group (RU)__: [@SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
 > __Email__: {{site.email2}} 

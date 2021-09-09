@@ -23,7 +23,7 @@
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
 - [__Donation Alerts (PayPal)__]({{site.donation_paypal}})
 - [__QIWI (Visa, Mastercard)__]({{site.donation_qiwi}})
-- [__ПриватБанк (UA)__]({{site.donation_privatbank}})
+<!-- - [__ПриватБанк (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
 - __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__
 - __ETH: 0xe455E21a085ae195a097cd4F456051A9916A5064__
@@ -74,8 +74,8 @@ __Бета__ релиз ориентирован на продвинутых п�
 - __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Контакты
-> __Группа в Telegram (EN)__: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
-> __Группа в Telegram (RU)__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)
 > __Telegram group Next (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
 > __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
+> __Группа в Telegram (EN)__: [SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
+> __Группа в Telegram (RU)__: [SmartYouTubeTV](http://t.me/SmartYouTubeTV)
 > __Почта__: {{site.email2}}   

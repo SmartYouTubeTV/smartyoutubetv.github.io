@@ -1,6 +1,4 @@
-#### YouTube client for set-top boxes and Android-based TVs
-
-Nova-days devices like TVs usually have a number of problems with YouTube. This app is intended to fix such flaws
+#### Free premium app for set-top boxes and Android-based TVs
 
 #### Screenshots
 {% include home-screenshots.html %}
@@ -10,15 +8,14 @@ Nova-days devices like TVs usually have a number of problems with YouTube. This 
 - runs without Google Services
 - designed for TV screens
 - stock controller support
-- multilingual search keyboard
-- fully localized
+- external keyboard support
 
 <a name="donation-section"/>
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}})
+<!-- - [__Donation Alerts (VISA, PayPal)__]({{site.donation_paypal}}) -->
 - [__QIWI (RU)__]({{site.donation_qiwi}})
 <!-- - [__PrivatBank (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
@@ -31,7 +28,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 #### Downloads
 - __[Stable release]({{site.binaries.unified}})__
-- __[Beta release]({{site.binaries.unified_beta}})__ (codename _SmartTubeNext_)   
+- __[Beta release]({{site.binaries.unified_beta}})__   
 
 <a name="source-code-section"/>
 
@@ -44,9 +41,9 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
 
-#### What to Choose?
+<!-- #### What to Choose?
 The __Stable__ version is intended for the casual users.
-The __Beta__ version is intended for advanced users which want to have 4K and customizable UI. 
+The __Beta__ version is intended for advanced users which want to have 4K and customizable UI.  -->
 <!-- Immediately after start of the __Stable__ version you will see four different launchers: Pro Main, Pro Alt, Lite Main and Lite Alt. Both Pro launchers support AFR and 60fps. Lite launchers don't have such features but may open videos quickly. I suggest to try all launchers one by one until you find best one. -->
 
 <!-- __YouTube Kids__ version is the video service for early childhood education. [More info](https://kids.youtube.com) -->
@@ -58,7 +55,7 @@ The __Beta__ version is intended for advanced users which want to have 4K and cu
 <!-- __Additional apk__ - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically. -->
 
 #### Found a bug?
-You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartYouTubeTV/issues)__ or tell us in our Telegram group (see below).
+You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartTubeNext/issues)__ or tell us in our Telegram group (see below).
 
 <!-- #### Contributors
  * __[WolfganP](https://github.com/WolfganP)__ (README)
@@ -71,7 +68,5 @@ You can report in the __[issue tracker on Github](https://github.com/yuliskov/Sm
 
 #### Contacts
 > __Telegram group Next (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
-> __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
-> __Telegram group (EN)__: [@SmartYouTubeTV_en](http://t.me/SmartYouTubeTV_en)  
-> __Telegram group (RU)__: [@SmartYouTubeTV](http://t.me/SmartYouTubeTV)  
+> __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)    
 > __Email__: {{site.email2}} 

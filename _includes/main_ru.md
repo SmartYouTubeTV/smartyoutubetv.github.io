@@ -18,7 +18,8 @@
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Donation Alerts (PayPal)__]({{site.donation_paypal}})
+- [__Patreon (PayPal)__]({{site.donation_patreon}})
+- [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}})
 - [__QIWI (Visa, Mastercard)__]({{site.donation_qiwi}})
 <!-- - [__ПриватБанк (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__

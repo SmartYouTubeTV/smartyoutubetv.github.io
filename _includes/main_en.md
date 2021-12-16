@@ -43,6 +43,10 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
 <!-- - [All releases](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
 
+#### Where I can find a manual?
+
+__[Manual](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
+
 <!-- #### What to Choose?
 The __Stable__ version is intended for the casual users.
 The __Beta__ version is intended for advanced users which want to have 4K and customizable UI.  -->

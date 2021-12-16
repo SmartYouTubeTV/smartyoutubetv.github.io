@@ -19,8 +19,9 @@
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
 - [__Patreon (PayPal)__]({{site.donation_patreon}})
-- [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}})
-- [__QIWI (Visa, Mastercard)__]({{site.donation_qiwi}})
+- [__QIWI (RU, Visa)__]({{site.donation_qiwi}})
+- [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}})
+<!-- - [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}}) -->
 <!-- - [__ПриватБанк (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
 - __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__

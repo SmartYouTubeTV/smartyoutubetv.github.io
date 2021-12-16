@@ -103,9 +103,9 @@
 		var img = $('<img/>').attr('src', srcEl.attr('href'))
 			.css({
 				'max-width': '100%',
-				'max-height': '100%',
+				//'max-height': '100%',
 				// TODO: modified
-				'height': this.settings.height
+				'max-height': this.settings.height
 			});
 		targetEl.empty().append(img);
 	};

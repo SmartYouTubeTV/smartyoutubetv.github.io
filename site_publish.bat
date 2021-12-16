@@ -16,6 +16,8 @@ for %%s in ("git@github.com:SmartYouTubeTV/SmartYouTubeTV.github.io.git" "git@gi
 goto End
 
 :publishSite
+	echo Publishing %1...
+
 	set REPO=%1
 
 	pushd _site

@@ -35,6 +35,10 @@
 - __[Стабильный релиз]({{site.binaries.unified}})__
 - __[Бета релиз]({{site.binaries.unified_beta}})__  
 
+#### Гайд по функциям
+
+__[Открыть гайд (EN)](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
+
 <a name="source-code-section"/>
 
 #### Исходный код
@@ -45,10 +49,6 @@
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Все релизы](https://github.com/yuliskov/SmartYouTubeTV/releases)   -->
-
-#### Где найти мануал?
-
-__[Мануал (EN)](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
 
 <!-- #### Что выбрать? -->
 

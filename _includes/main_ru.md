@@ -77,7 +77,7 @@ __[Открыть гайд (EN)](https://github.com/yuliskov/SmartTubeNext#smart
 - __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Контакты
-> __Telegram group Next (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
-> __Telegram group Next (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
+> __Telegram (RU)__: [@SmartTubeNext](http://t.me/SmartTubeNext)  
+> __Telegram (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
 
 <!-- > __Почта__: {{site.email2}}  -->  

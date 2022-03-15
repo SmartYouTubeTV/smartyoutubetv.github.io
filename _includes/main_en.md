@@ -16,8 +16,8 @@
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
 - [__Patreon (PayPal)__]({{site.donation_patreon}})
-- [__QIWI (RU)__]({{site.donation_qiwi}})
-- [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}})
+<!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->
+<!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->
 <!-- - [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}}) -->
 <!-- - [__PrivatBank (UA)__]({{site.donation_privatbank}}) -->
 - __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__

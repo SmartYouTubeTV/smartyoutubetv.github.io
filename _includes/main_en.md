@@ -15,16 +15,20 @@
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 <!-- * [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Patreon (PayPal)__]({{site.donation_patreon}})
+- [__Patreon__]({{site.donation_patreon}})
+- [__PayPal__](https://bit.ly/3wb2FxE)
 <!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->
 <!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->
 <!-- - [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}}) -->
 <!-- - [__PrivatBank (UA)__]({{site.donation_privatbank}}) -->
-- __BTC: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx__
-- __LTC: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw__
-- __ETH: 0xe455E21a085ae195a097cd4F456051A9916A5064__
-- __ETC: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815__
-- __XMR: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT__
+- __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+- __LTC__: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw
+- __ETH__: 0xe455E21a085ae195a097cd4F456051A9916A5064
+- __ETC__: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815
+- __XMR__: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT
+- __BNB__: bnb1amjr7fauftxxyhe4f95280vklctj243k9u55fq
+- __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB
+- __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064
 
 <a name="releases-section"/>
 

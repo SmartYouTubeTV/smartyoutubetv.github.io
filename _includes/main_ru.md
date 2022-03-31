@@ -19,7 +19,8 @@
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
 - [__Patreon (PayPal)__]({{site.donation_patreon}})
-- [__PayPal__](https://bit.ly/3wb2FxE)
+- __PayPal__: firsthash at gmail dot com
+<!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU, Visa)__]({{site.donation_qiwi}}) -->
 <!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->
 <!-- - [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}}) -->

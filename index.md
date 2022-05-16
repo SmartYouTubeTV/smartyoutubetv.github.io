@@ -23,11 +23,12 @@ weight: 1
 	var userLang = detectLanguage();
 
 	switch (userLang) {
-		case 'ru':
 		case 'uk':
+			window.location.href = '{{ site.baseurl }}/ua/';
+			break;
+		case 'ru':
 		case 'be':
-			userLang = 'ru';
-			window.location.href = '{{ site.baseurl }}/' + userLang + '/';
+			window.location.href = '{{ site.baseurl }}/ru/';
 			break;
 	}
 </script>

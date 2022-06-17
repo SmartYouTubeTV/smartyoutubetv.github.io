@@ -20,7 +20,7 @@
   height: 1px;
 }
 
-@media (pointer:none), (pointer:coarse) {
+@media (max-width: 858px) {
   .markdown-body {
     font-size: 26px;
   }

@@ -21,8 +21,8 @@
 }
 
 /* https://stackoverflow.com/questions/30706407/css-max-width-for-media-query-not-working */
-@media (max-device-width: 600px) {
+/*@media (max-device-width: 900px) {
   .markdown-body {
     font-size: 26px;
   }
-}
+}*/

@@ -23,11 +23,16 @@
     <div class="markdown-body">
       <article>
         {% include social-buttons.html %}
+        <h2>
         {% if page.hide_title %}
-        <h2><span style="color: #c50e0e">{{ site.baseTitle }}</span></h2>
+        <span style="color: #c50e0e">{{ site.baseTitle }}</span>
         {% else %}
-        <h2><span style="color: #c50e0e">{{ site.baseTitle }} - {{ page.title }}</span></h2>
+        <span style="color: #c50e0e">{{ site.baseTitle }} - {{ page.title }}</span>
         {% endif %}
+        <a href="/ua">UA</a>
+        <a href="/ru">RU</a>
+        <a href="/">EN</a>
+        </h2>
         {{ content }}
         {% include disqus.html %}
       </article>

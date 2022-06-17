@@ -1,6 +1,6 @@
 baseurl: 
 scripts: /scripts
-baseTitle: SmartTubeNext
+baseTitle: SmartTube
 sdkurl: https://developer.android.com/reference
 excerpt_separator: <!--more-->
 themename: 'style-custom'

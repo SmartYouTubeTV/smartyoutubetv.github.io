@@ -31,10 +31,12 @@
         {% else %}
         <span style="color: #c50e0e">{{ site.baseTitle }} - {{ page.title }}</span>
         {% endif %}
+        </h2>
+        <h4>
         <a href="/ua">UA</a>
         <a href="/ru">RU</a>
         <a href="/">EN</a>
-        </h2>
+        </h4>
         {{ content }}
         {% include disqus.html %}
       </article>

@@ -30,9 +30,9 @@
 - __ETH__: 0xe455E21a085ae195a097cd4F456051A9916A5064
 - __ETC__: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815
 - __XMR__: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT
-- __BNB__: bnb1amjr7fauftxxyhe4f95280vklctj243k9u55fq
-- __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB
-- __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064
+<!-- - __BNB__: bnb1amjr7fauftxxyhe4f95280vklctj243k9u55fq -->
+<!-- - __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB -->
+<!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 -->
 
 <a name="releases-section"/>
 

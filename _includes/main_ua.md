@@ -1,4 +1,4 @@
-#### Безкоштовний преміум для медіа-боксів та ТВ на базі Android
+#### Безкоштовний преміум для медіа-боксів та телевізорів на базі Android
 
 <!-- Ця програма нагадує рідну програму [__YouTube for Android TV__](https://play.google.com/store/apps/details?id=com.google.android.youtube.tv), але з деякими змінами ( див. нижче). -->
 
@@ -8,17 +8,23 @@
 #### Можливості
 - __підтримка 4К__
 - немає залежності від Google-сервісів
-- чудово виглядає на екрані ТБ
+- чудово виглядає на екрані телевізору
 - підтримка "рідного" пульта керування
-- Підтримка зовнішньої клавіатури
-- Без реклами
+- підтримка зовнішньої клавіатури
+- немає реклами
+
+<a name="releases-section"/>
+
+#### Завантажити
+- __[Стабільний реліз]({{site.binaries.unified}})__
+- __[Бета реліз]({{site.binaries.unified_beta}})__
 
 <a name="donation-section"/>
 
 #### Сподобався проект?
-Якщо хочете підтримати розробку, можете купити мені чашку кави)
+Якщо хочете підтримати розробку, то можете придбати мені чашку кави)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Patreon (PayPal)__]({{site.donation_patreon}})
+- [__Patreon__]({{site.donation_patreon}})
 - __PayPal__: firsthash at gmail dot com
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU, Visa)__]({{site.donation_qiwi}}) -->
@@ -34,12 +40,6 @@
 <!-- - __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB -->
 <!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 -->
 
-<a name="releases-section"/>
-
-#### Завантажити
-- __[Стабільний реліз]({{site.binaries.unified}})__
-- __[Бета реліз]({{site.binaries.unified_beta}})__
-
 #### Гайд за функціями
 
 __[Відкрити посібник (EN)](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
@@ -49,7 +49,7 @@ __[Відкрити посібник (EN)](https://github.com/yuliskov/SmartTube
 #### Вихідний код
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
-- __[Вихідний код](https://github.com/yuliskov/SmartTubeNext)__
+__[Вихідний код](https://github.com/yuliskov/SmartTubeNext)__
 <!-- - [Доп. apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 версія]({{site.binaries.MiTV2}}) -->
 <!-- - [Mystery версія]({{site.binaries.MiTV2}}) -->

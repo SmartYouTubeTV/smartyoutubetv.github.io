@@ -13,12 +13,18 @@
 - поддержка внешней клавиатуры
 - без рекламы
 
+<a name="releases-section"/>
+
+#### Скачать
+- __[Стабильный релиз]({{site.binaries.unified}})__
+- __[Бета релиз]({{site.binaries.unified_beta}})__
+
 <a name="donation-section"/>
 
 #### Понравился проект?
 Если хотите поддержать разработку, то можете купить мне чашку кофе)
 <!-- - [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Patreon (PayPal)__]({{site.donation_patreon}})
+- [__Patreon__]({{site.donation_patreon}})
 - __PayPal__: firsthash at gmail dot com
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU, Visa)__]({{site.donation_qiwi}}) -->
@@ -32,13 +38,7 @@
 - __XMR__: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT
 <!-- - __BNB__: bnb1amjr7fauftxxyhe4f95280vklctj243k9u55fq -->
 <!-- - __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB -->
-<!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 -->
-
-<a name="releases-section"/>
-
-#### Скачать
-- __[Стабильный релиз]({{site.binaries.unified}})__
-- __[Бета релиз]({{site.binaries.unified_beta}})__  
+<!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 --> 
 
 #### Гайд по функциям
 
@@ -49,7 +49,7 @@ __[Открыть руководство (EN)](https://github.com/yuliskov/Smart
 #### Исходный код
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
-- __[Исходный код](https://github.com/yuliskov/SmartTubeNext)__  
+__[Исходный код](https://github.com/yuliskov/SmartTubeNext)__  
 <!-- - [Доп. apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->

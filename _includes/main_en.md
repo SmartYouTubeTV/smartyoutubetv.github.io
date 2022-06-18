@@ -10,6 +10,12 @@
 - stock controller support
 - external keyboard support
 
+<a name="releases-section"/>
+
+#### Downloads
+- __[Stable release]({{site.binaries.unified}})__
+- __[Beta release]({{site.binaries.unified_beta}})__
+
 <a name="donation-section"/>
 
 #### Donation
@@ -31,13 +37,6 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 <!-- - __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB -->
 <!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 -->
 
-<a name="releases-section"/>
-
-#### Downloads
-- __[Stable release]({{site.binaries.unified}})__
-- __[Beta release]({{site.binaries.unified_beta}})__   
-
-
 #### Manual
 
 __[Open manual](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
@@ -47,7 +46,7 @@ __[Open manual](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
 #### Source code
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
-- __[Source code](https://github.com/yuliskov/SmartTubeNext)__
+__[Source code](https://github.com/yuliskov/SmartTubeNext)__
 <!-- - [Additional apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->

@@ -17,7 +17,28 @@
 
 #### Скачать
 - __[Стабильный релиз]({{site.binaries.unified}})__
-- __[Бета релиз]({{site.binaries.unified_beta}})__ 
+- __[Бета релиз]({{site.binaries.unified_beta}})__
+
+<a name="donation-section"/>
+
+#### Понравился проект?
+Если хотите поддержать разработку, то можете купить мне чашку кофе)
+<!-- - [__PayPal__]({{site.donation_paypal2}}) -->
+- [__Patreon__]({{site.donation_patreon}})
+- __PayPal__: firsthash at gmail dot com
+<!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
+<!-- - [__QIWI (RU, Visa)__]({{site.donation_qiwi}}) -->
+<!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->
+<!-- - [__Donation Alerts (RU, PayPal)__]({{site.donation_paypal}}) -->
+<!-- - [__ПриватБанк (UA)__]({{site.donation_privatbank}}) -->
+- __BTC__: 1JAT5VVWarVBkpVbNDn8UA8HXNdrukuBSx
+- __LTC__: ltc1qgc24eq9jl9cq78qnd5jpqhemkajg9vudwyd8pw
+- __ETH__: 0xe455E21a085ae195a097cd4F456051A9916A5064
+- __ETC__: 0x209eCd33Fa61fA92167595eB3Aea92EE1905c815
+- __XMR__: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT
+<!-- - __BNB__: bnb1amjr7fauftxxyhe4f95280vklctj243k9u55fq -->
+<!-- - __DOGE__: DBnqJwJs2GJBxrCDsi5bXwSmjnz8uGdUpB -->
+<!-- - __eUSDT__: 0xe455e21a085ae195a097cd4f456051a9916a5064 --> 
 
 #### Гайд по функциям
 

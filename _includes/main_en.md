@@ -38,14 +38,14 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 #### Manual
 
-__[Open manual](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
+__[Functions guide](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
 
 <a name="source-code-section"/>
 
-#### Source code
+#### Sources
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
-__[Source code](https://github.com/yuliskov/SmartTubeNext)__
+__[App source code](https://github.com/yuliskov/SmartTubeNext)__
 <!-- - [Additional apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->

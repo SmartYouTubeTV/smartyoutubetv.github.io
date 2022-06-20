@@ -20,8 +20,7 @@
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
-<!-- * [__PayPal__]({{site.donation_paypal2}}) -->
-- [__Patreon__]({{site.donation_patreon}})
+- [__Patreon (Visa, Mastercard, PayPal)__]({{site.donation_patreon}})
 - __PayPal__: firsthash at gmail dot com
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->

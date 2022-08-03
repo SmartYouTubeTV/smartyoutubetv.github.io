@@ -4,11 +4,13 @@
 {% include home-screenshots.html %}
 
 #### Features
-- __4K support__
-- runs without Google Services
-- designed for TV screens
-- stock controller support
-- external keyboard support
+- Designed for TV screens
+- Up to 8K video resolution
+- Login into your account
+- Cast from the phone
+- Stock remote controller support
+- Support external software keyboard
+- Support devices without Google Services
 
 <a name="releases-section"/>
 

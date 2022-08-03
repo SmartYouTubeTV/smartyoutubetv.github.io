@@ -19,18 +19,3 @@
 .markdown-body hr {
   height: 1px;
 }
-
-/* https://stackoverflow.com/questions/30706407/css-max-width-for-media-query-not-working */
-
-
-/* Carousel view phone tweaks */
-
-#demo .PlusView-contentArea img {
-  max-width: none !important;
-}
-
-#demo .PlusView-contentArea {
-  overflow: hidden;
-}
-
-/* END Carousel view phone tweaks */

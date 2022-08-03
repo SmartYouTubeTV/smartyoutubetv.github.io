@@ -45,3 +45,24 @@ html {
 #markdown-toc li {
   list-style: none;
 }
+
+/* https://stackoverflow.com/questions/30706407/css-max-width-for-media-query-not-working */
+
+
+/* Carousel view phone tweaks */
+
+#demo .PlusView-contentArea img {
+  max-width: none !important;
+}
+
+#demo .PlusView-contentArea {
+  overflow: hidden;
+}
+
+/* END Carousel view phone tweaks */
+
+
+/* Hide ads. All iframes except ones with 'disqus' inside src attribute */
+iframe:not([src*="disqus"]) {
+   display: none;
+}

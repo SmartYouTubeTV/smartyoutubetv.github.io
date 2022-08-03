@@ -8,7 +8,7 @@
 - Up to 8K video resolution
 - Login into your account
 - Cast from the phone
-- Stock remote controller support
+- Support tv box remote controller
 - Support external software keyboard
 - Support devices without Google Services
 - Open source

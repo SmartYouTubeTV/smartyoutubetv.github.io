@@ -4,6 +4,7 @@
 {% include home-screenshots.html %}
 
 #### Features
+- No Ads
 - Designed for TV screens
 - Up to 8K video resolution
 - Login into your account

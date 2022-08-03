@@ -11,6 +11,7 @@
 - Stock remote controller support
 - Support external software keyboard
 - Support devices without Google Services
+- Open source
 
 <a name="releases-section"/>
 

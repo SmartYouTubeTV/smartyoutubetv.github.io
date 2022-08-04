@@ -63,6 +63,11 @@ html {
 
 
 /* Hide ads. All iframes except ones with 'disqus' inside src attribute */
-iframe:not([src*="disqus"]) {
+/*iframe:not([src*="disqus"]) {
+   display: none;
+}*/
+
+/* Hide ads. All iframes except ones that has src attribute. Ads frame doesn't contain src attribute. */
+iframe:not([src^="https"]) {
    display: none;
 }

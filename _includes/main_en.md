@@ -25,7 +25,7 @@
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 - [__Patreon (Visa, Mastercard, PayPal)__]({{site.donation_patreon}})
-- __PayPal__: firsthash at gmail dot com
+- __PayPal__: firsth<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->
 <!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->
@@ -83,6 +83,6 @@ You can report in the __[issue tracker on Github](https://github.com/yuliskov/Sm
 #### Contacts
 > __Telegram (international)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
 > __Telegram (RU/UA)__: [@SmartTubeNext](http://t.me/SmartTubeNext)    
-> __Email__: first.hash at gmail dot com  
+> __Email__: first.h<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com  
 
 <!-- > __Email__: {{site.email2}}  -->

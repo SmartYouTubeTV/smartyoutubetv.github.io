@@ -1,4 +1,4 @@
-#### Free premium app for set-top boxes and Android-based TVs
+#### Free from ads app for watching tube videos on set-top boxes and tv
 
 #### Screenshots
 {% include home-screenshots.html %}

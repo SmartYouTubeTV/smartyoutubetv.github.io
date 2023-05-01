@@ -63,6 +63,7 @@ html {
 
 
 /* Hide disqus ads. All iframes except ones with 'comments' inside src attribute */
+#disqus_recommendations,
 #disqus_thread iframe:not([src*="comments"]) {
    display: none;
 }

@@ -26,6 +26,7 @@
 If you want to support my developments you are welcome to buy me a cup of coffee :)
 - [__Patreon (Visa, Mastercard, PayPal)__]({{site.donation_patreon}})
 - __PayPal__: firsth<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com
+- [__Buy me a coffee__]({{site.donation_buy_me_coffee}})
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->
 <!-- - [__DonatePay (RU, PayPal, Visa)__]({{site.donation_donatepay}}) -->

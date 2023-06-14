@@ -11,7 +11,7 @@ REM git --git-dir=.git --work-tree=_site add --all
 REM git --git-dir=.git --work-tree=_site commit -m "autogen: update site"
 REM git --git-dir=.git --work-tree=_site push
 
-for %%s in ("git@github.com:SmartTubeOfficial/SmartTubeOfficial.github.io.git" "git@github.com:SmartYouTubeTV/SmartYouTubeTV.github.io.git" "git@github.com:SmartTubeNext/SmartTubeNext.github.io.git") do call :publishSite %%s
+for %%s in ("git@github.com:SmartTubeOfficial/SmartTubeOfficial.github.io.git") do call :publishSite %%s
 
 goto End
 

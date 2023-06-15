@@ -82,8 +82,8 @@ You can report in the __[issue tracker on Github](https://github.com/yuliskov/Sm
 - __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Contacts
-> __Telegram (international)__: [@SmartTubeNext_en](http://t.me/SmartTubeNext_en)  
-> __Telegram (RU/UA)__: [@SmartTubeNext](http://t.me/SmartTubeNext)    
+> __Telegram (international)__: [@SmartTubeNext_en](http://t.me/SmartTubeEN)  
+> __Telegram (RU/UA)__: [@SmartTubeNext](http://t.me/SmartTubeRU)    
 > __Email__: first.h<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com  
 
 <!-- > __Email__: {{site.email2}}  -->

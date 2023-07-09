@@ -43,7 +43,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 #### Manual
 
-__[Features guide](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
+__[Features guide](https://github.com/yuliskov/SmartTubeNext#device-support)__
 
 <a name="source-code-section"/>
 

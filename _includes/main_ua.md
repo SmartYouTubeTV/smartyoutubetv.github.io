@@ -21,7 +21,7 @@
 
 #### Гайд за функціями
 
-__[Відкрити посібник (EN)](https://github.com/yuliskov/SmartTubeNext#smarttubenext-stn)__
+__[Відкрити посібник (EN)](https://github.com/yuliskov/SmartTubeNext#device-support)__
 
 <a name="source-code-section"/>
 

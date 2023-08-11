@@ -1,4 +1,4 @@
-#### Free from ads app for watching tube videos on set-top boxes and tv
+#### Free from ads app for watching videos on set-top boxes and tv
 
 #### Screenshots
 {% include home-screenshots.html %}

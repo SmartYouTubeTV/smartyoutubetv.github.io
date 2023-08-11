@@ -1,4 +1,4 @@
-#### Free from ads app for watching videos on set-top boxes and tv
+#### An advanced player app for Android-based set-top boxes and tv, free & open source
 
 #### Screenshots
 {% include home-screenshots.html %}

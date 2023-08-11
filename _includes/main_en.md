@@ -1,4 +1,4 @@
-#### An advanced player app for Android-based set-top boxes and tv, free & open source
+#### An advanced player for Android-based set-top boxes and tv, free & open source
 
 #### Screenshots
 {% include home-screenshots.html %}

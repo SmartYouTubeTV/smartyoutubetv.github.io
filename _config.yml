@@ -1,59 +1,6 @@
-baseurl: 
-scripts: /scripts
-baseTitle: SmartTube (Official Site)
-sdkurl: https://developer.android.com/reference
-excerpt_separator: <!--more-->
-themename: 'style-custom'
 title: SmartTube (Official Site)
 description: Free premium app for Android boxes and tvs
-url: https://yuliskov.github.io
-author: TeamSmart
-logo: /images/site_logo.png
-email: firsthash@gmail.com
-email2: first.hash at gmail dot com
-donation_patreon: https://www.patreon.com/smarttube
-donation_buy_me_coffee: https://www.buymeacoffee.com/stube
-donation_donatepay: https://new.donatepay.ru/@459197
-donation_paypal: https://www.donationalerts.com/r/firsthash
-donation_paypal2: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=2WLCM95RRVWZ6&item_name=software+development&currency_code=USD&source=url
-donation_qiwi: https://qiwi.com/n/GUESS025
-donation_privatbank: https://privatbank.ua/ru/sendmoney?payment=9e46a6ef78
-donation_privatbank_old: https://privatbank.ua/ru/sendmoney?payment=9e46a6ef78
-exclude:
-  - old
-  - '*.bak'
-  - '*.new'
-lang:
-  - en
-  - ru
-binaries:
-  unified: https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk
-  # unified_beta: https://github.com/yuliskov/SmartTubeLegacy/releases/download/beta/smartyoutubetv_latest.apk
-  unified_beta: https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk
-  kids: https://github.com/yuliskov/SmartTubeLegacy/releases/download/stable/kidsyoutubetv_latest.apk
-  Live: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.16.89/SYTV_Vlive_v6.16.89_r.apk
-  # unified_test: https://github.com/yuliskov/SmartTubeLegacy/releases/
-  unified_test: https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_beta.apk
-  MiTV2: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
-  Mystery: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
-xwalk_libs:
-  https://drive.google.com/open?id=1_HM4DDAbCchAkCcAruWnJ4cGYDfXLEw9
-bottom-links:
-  -
-    url: "#releases-section"
-    title: Releases
-    title_en: Releases
-    title_ru: Релизы
-  -
-    url: "#source-code-section"
-    title: Source code
-    title_en: Source code
-    title_ru: Исходный код
-  -
-    url: "#donation-section"
-    title: Donation
-    title_en: Donation
-    title_ru: Помочь в разработке
-gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+remote_theme: pages-themes/cayman@v0.2.0
+plugins_dir:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+# theme: jekyll-theme-cayman

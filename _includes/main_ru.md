@@ -61,7 +61,7 @@ __[Исходный код](https://github.com/yuliskov/SmartTubeNext)__
 - __[yuliskov](https://github.com/yuliskov)__ -->
 
 #### Контакты
-> __Telegram (RU/UA)__: [@SmartTubeNext](http://t.me/SmartTubeUA)  
-> __Telegram (EN)__: [@SmartTubeNext_en](http://t.me/SmartTubeEN)  
+> __Telegram (RU/UA)__: [@SmartTubeUA](http://t.me/SmartTubeUA)  
+> __Telegram (EN)__: [@SmartTubeEN](http://t.me/SmartTubeEN)  
 
 <!-- > __Почта__: {{site.email2}}  -->  
